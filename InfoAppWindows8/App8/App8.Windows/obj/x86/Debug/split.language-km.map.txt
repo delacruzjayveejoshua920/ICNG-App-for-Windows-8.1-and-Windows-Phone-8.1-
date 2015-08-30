@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-km"
+"ResourceDimensions"		"language-km"
+
+[Files]
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Debug\split.language-km.pri"			"resources.pri"

@@ -1,0 +1,1 @@
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.WindowsPhone\App8.WindowsPhone.csproj;arm

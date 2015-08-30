@@ -1,0 +1,12 @@
+﻿<Application
+    x:Class="ICNG_Phone.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ICNG_Phone">
+    <Application.Resources>
+        <x:String x:Key="ida:ClientID">940c69ca-cf79-44e8-98e6-60e8ad201a3a</x:String>
+    
+        <x:String x:Key="ida:AuthorizationUri">https://login.windows.net</x:String>
+    </Application.Resources>
+
+</Application>

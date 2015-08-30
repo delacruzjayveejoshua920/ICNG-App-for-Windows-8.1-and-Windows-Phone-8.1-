@@ -1,0 +1,14 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.language-zh-hant"
+"ResourceDimensions"		"language-zh-hant"
+
+[Files]
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\filemap.language-zh-hant.pri"			"resources.pri"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\zh-Hant\System.Spatial.resources.dll"			"zh-Hant\System.Spatial.resources.dll"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\zh-Hant\Microsoft.Spatial.resources.dll"			"zh-Hant\Microsoft.Spatial.resources.dll"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\zh-Hant\Microsoft.OData.Edm.resources.dll"			"zh-Hant\Microsoft.OData.Edm.resources.dll"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\zh-Hant\Microsoft.OData.Core.resources.dll"			"zh-Hant\Microsoft.OData.Core.resources.dll"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\zh-Hant\Microsoft.OData.Client.resources.dll"			"zh-Hant\Microsoft.OData.Client.resources.dll"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\zh-Hant\Microsoft.Data.Services.Client.resources.dll"			"zh-Hant\Microsoft.Data.Services.Client.resources.dll"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\zh-Hant\Microsoft.Data.OData.resources.dll"			"zh-Hant\Microsoft.Data.OData.resources.dll"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\zh-Hant\Microsoft.Data.Edm.resources.dll"			"zh-Hant\Microsoft.Data.Edm.resources.dll"

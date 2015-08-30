@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\doncampos\source\workspaces\infoapp\infoappwindows8\packages\windowsazure.mobileservices.1.2.5\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="083034df-3ca7-6905-c884-535ec28d6c4e" />
+    <ReferenceAssembly PathName="c:\users\doncampos\source\workspaces\infoapp\infoappwindows8\packages\windowsazure.mobileservices.1.2.5\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="c3fe55d4-dcfc-ac07-236d-f429b050553a" />
+    <ReferenceAssembly PathName="c:\users\doncampos\source\workspaces\infoapp\infoappwindows8\packages\newtonsoft.json.6.0.7\lib\netcore45\newtonsoft.json.dll" HashGuid="563b31f6-2134-5a23-555f-2a14fe4d9632" />
+    <ReferenceAssembly PathName="c:\users\doncampos\source\workspaces\infoapp\infoappwindows8\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\doncampos\source\workspaces\infoapp\infoappwindows8\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

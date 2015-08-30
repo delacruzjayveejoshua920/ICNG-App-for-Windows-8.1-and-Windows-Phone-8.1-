@@ -1,0 +1,964 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DON</Machine>
+    <WindowsUser>DonCampos</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>9572b51a-fa44-44ba-bedd-923f18cea43a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\ARM\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D31DAEEA9D3C2BFE5282397A38C1C3D334DB213C7DAF35C4D5D1FE87DDB9F3B7</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T17:10:44.801</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\App8.Windows.exe">
+      <PackagePath>App8.Windows.exe</PackagePath>
+      <Modified>2015-01-19T17:10:25.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\References\commonconfiguration\neutral\Bing.Maps.winmd">
+      <PackagePath>Bing.Maps.winmd</PackagePath>
+      <Modified>2014-11-05T07:28:59.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\bin\ARM\Release\BackgroundTasks.winmd">
+      <PackagePath>BackgroundTasks.winmd</PackagePath>
+      <Modified>2015-01-19T17:10:14.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\WindowsAzure.MobileServices.1.2.5\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+      <Modified>2015-01-19T16:45:54.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\WindowsAzure.MobileServices.1.2.5\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+      <Modified>2015-01-19T16:45:54.853</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Newtonsoft.Json.6.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-01-19T16:07:14.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2015-01-19T16:45:52.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2015-01-19T16:45:52.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\retail\ARM\Bing.Maps.dll">
+      <PackagePath>Bing.Maps.dll</PackagePath>
+      <Modified>2014-11-05T07:28:59.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Font\Bing_Maps_Symbol.ttf">
+      <PackagePath>Bing.Maps\Font\Bing_Maps_Symbol.ttf</PackagePath>
+      <Modified>2014-11-05T07:28:56.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Blocked_Regions_01.png">
+      <PackagePath>Bing.Maps\Blocked_Regions_01.png</PackagePath>
+      <Modified>2014-11-05T07:28:56.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\circleImage-noalpha.png">
+      <PackagePath>Bing.Maps\circleImage-noalpha.png</PackagePath>
+      <Modified>2014-11-05T07:28:56.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\circleImage.png">
+      <PackagePath>Bing.Maps\circleImage.png</PackagePath>
+      <Modified>2014-11-05T07:28:56.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\dashedImage.png">
+      <PackagePath>Bing.Maps\dashedImage.png</PackagePath>
+      <Modified>2014-11-05T07:28:56.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN.ps">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY-downlevel.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.235</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC.ps">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader-downlevel.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader.ps">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader.ps</PackagePath>
+      <Modified>2014-11-05T07:28:57.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN.vs">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY-downlevel.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.278</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.353</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC.vs">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.401</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader-downlevel.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader.vs">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader.vs</PackagePath>
+      <Modified>2014-11-05T07:28:57.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\CMF.ont">
+      <PackagePath>Bing.Maps\CMF.ont</PackagePath>
+      <Modified>2014-11-05T07:28:56.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\LandmarkSchema.ont">
+      <PackagePath>Bing.Maps\LandmarkSchema.ont</PackagePath>
+      <Modified>2014-11-05T07:28:57.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Schema.ont">
+      <PackagePath>Bing.Maps\Schema.ont</PackagePath>
+      <Modified>2014-11-05T07:28:57.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\VenueMapsSchema.ont">
+      <PackagePath>Bing.Maps\VenueMapsSchema.ont</PackagePath>
+      <Modified>2014-11-05T07:28:57.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\EnglishEntityNames.hlx">
+      <PackagePath>Bing.Maps\EnglishEntityNames.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:56.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\EntityLookup.hlx">
+      <PackagePath>Bing.Maps\EntityLookup.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:56.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\EntityNameLength.hlx">
+      <PackagePath>Bing.Maps\EntityNameLength.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:56.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\GermanicEntityNames.hlx">
+      <PackagePath>Bing.Maps\GermanicEntityNames.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:56.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\InvariantEntityNames.hlx">
+      <PackagePath>Bing.Maps\InvariantEntityNames.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:57.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\LatinEntityNames.hlx">
+      <PackagePath>Bing.Maps\LatinEntityNames.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:57.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\NameCount.hlx">
+      <PackagePath>Bing.Maps\NameCount.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:57.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\NameRoleLcid.hlx">
+      <PackagePath>Bing.Maps\NameRoleLcid.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:57.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\ScandinavianEntityNames.hlx">
+      <PackagePath>Bing.Maps\ScandinavianEntityNames.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:57.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields202.hlx">
+      <PackagePath>Bing.Maps\Shields202.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:57.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields244.hlx">
+      <PackagePath>Bing.Maps\Shields244.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:57.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields39.hlx">
+      <PackagePath>Bing.Maps\Shields39.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:57.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\SlavicEntityNames.hlx">
+      <PackagePath>Bing.Maps\SlavicEntityNames.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:57.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets202.hlx">
+      <PackagePath>Bing.Maps\Streets202.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:57.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets244.hlx">
+      <PackagePath>Bing.Maps\Streets244.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:57.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets39.hlx">
+      <PackagePath>Bing.Maps\Streets39.hlx</PackagePath>
+      <Modified>2014-11-05T07:28:57.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h0.tile">
+      <PackagePath>Bing.Maps\h0.tile</PackagePath>
+      <Modified>2014-11-05T07:28:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h1.tile">
+      <PackagePath>Bing.Maps\h1.tile</PackagePath>
+      <Modified>2014-11-05T07:28:57.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h2.tile">
+      <PackagePath>Bing.Maps\h2.tile</PackagePath>
+      <Modified>2014-11-05T07:28:57.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h3.tile">
+      <PackagePath>Bing.Maps\h3.tile</PackagePath>
+      <Modified>2014-11-05T07:28:57.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r0.tile">
+      <PackagePath>Bing.Maps\r0.tile</PackagePath>
+      <Modified>2014-11-05T07:28:57.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r1.tile">
+      <PackagePath>Bing.Maps\r1.tile</PackagePath>
+      <Modified>2014-11-05T07:28:57.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r2.tile">
+      <PackagePath>Bing.Maps\r2.tile</PackagePath>
+      <Modified>2014-11-05T07:28:57.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r3.tile">
+      <PackagePath>Bing.Maps\r3.tile</PackagePath>
+      <Modified>2014-11-05T07:28:57.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\map.config">
+      <PackagePath>Bing.Maps\map.config</PackagePath>
+      <Modified>2014-11-05T07:28:57.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\UnifiedStyle.MapStyle">
+      <PackagePath>Bing.Maps\UnifiedStyle.MapStyle</PackagePath>
+      <Modified>2014-11-05T07:28:57.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\App_Readme\Elmah.txt">
+      <PackagePath>App_Readme\Elmah.txt</PackagePath>
+      <Modified>2014-11-21T05:12:02.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\10841566_1011401448876280_1088504470_n.jpg">
+      <PackagePath>Assets\10841566_1011401448876280_1088504470_n.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:04.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\10850512_1011401442209614_1199723777_n.jpg">
+      <PackagePath>Assets\10850512_1011401442209614_1199723777_n.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:04.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\10859737_1011401482209610_671366089_n.jpg">
+      <PackagePath>Assets\10859737_1011401482209610_671366089_n.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:04.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\20110512184151245_1235455782informatics.jpg">
+      <PackagePath>Assets\20110512184151245_1235455782informatics.jpg</PackagePath>
+      <Modified>2014-11-21T05:12:06.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\ADGAT %28Better%29.jpg">
+      <PackagePath>Assets\ADGAT %28Better%29.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:06.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\background1.jpg">
+      <PackagePath>Assets\background1.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:39.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\BS-Information-Technology.jpg">
+      <PackagePath>Assets\BS-Information-Technology.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:06.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\BSBA %28Better%29.jpg">
+      <PackagePath>Assets\BSBA %28Better%29.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:08.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\BSCS %28Better%29.jpg">
+      <PackagePath>Assets\BSCS %28Better%29.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:07.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\facebooktiles1.jpg">
+      <PackagePath>Assets\facebooktiles1.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:06.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\facebooktiles2.jpg">
+      <PackagePath>Assets\facebooktiles2.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:06.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\facebooktiles3.jpg">
+      <PackagePath>Assets\facebooktiles3.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:08.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\GALLERY - FACILITIES.jpg">
+      <PackagePath>Assets\GALLERY - FACILITIES.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:08.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\Informatics Campus BLUR.jpg">
+      <PackagePath>Assets\Informatics Campus BLUR.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:08.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\instagramtile1.jpg">
+      <PackagePath>Assets\instagramtile1.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:09.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\instagramtile2.jpg">
+      <PackagePath>Assets\instagramtile2.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:09.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\instagramtile3.jpg">
+      <PackagePath>Assets\instagramtile3.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:09.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\twittertiles1.jpg">
+      <PackagePath>Assets\twittertiles1.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:14.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\twittertiles2.jpg">
+      <PackagePath>Assets\twittertiles2.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:14.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\twittertiles3.jpg">
+      <PackagePath>Assets\twittertiles3.jpg</PackagePath>
+      <Modified>2015-01-19T16:44:14.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\_MG_8435.JPG">
+      <PackagePath>Assets\_MG_8435.JPG</PackagePath>
+      <Modified>2015-01-19T16:45:43.462</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\_MG_8481.JPG">
+      <PackagePath>Assets\_MG_8481.JPG</PackagePath>
+      <Modified>2015-01-19T16:44:37.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\image\0.JPG">
+      <PackagePath>image\0.JPG</PackagePath>
+      <Modified>2015-01-19T16:45:51.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\image\1.JPG">
+      <PackagePath>image\1.JPG</PackagePath>
+      <Modified>2015-01-19T16:45:28.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\image\2.JPG">
+      <PackagePath>image\2.JPG</PackagePath>
+      <Modified>2015-01-19T16:45:39.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\image\3.JPG">
+      <PackagePath>image\3.JPG</PackagePath>
+      <Modified>2015-01-19T16:45:26.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\image\4.JPG">
+      <PackagePath>image\4.JPG</PackagePath>
+      <Modified>2015-01-19T16:45:32.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\image\5.JPG">
+      <PackagePath>image\5.JPG</PackagePath>
+      <Modified>2015-01-19T16:45:44.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\1779976_673416822772065_2372477507244453392_n.png">
+      <PackagePath>Assets\1779976_673416822772065_2372477507244453392_n.png</PackagePath>
+      <Modified>2015-01-19T16:44:05.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:04.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:04.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\BadgeLogo.scale-180.png">
+      <PackagePath>Assets\BadgeLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:04.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\facebookfeed2.png">
+      <PackagePath>Assets\facebookfeed2.png</PackagePath>
+      <Modified>2015-01-19T16:44:06.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\facebookfeed3.png">
+      <PackagePath>Assets\facebookfeed3.png</PackagePath>
+      <Modified>2015-01-19T16:44:06.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\facebooktiles1 %28with icon%29 - final.png">
+      <PackagePath>Assets\facebooktiles1 %28with icon%29 - final.png</PackagePath>
+      <Modified>2015-01-19T16:44:06.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\FB_ICON.png">
+      <PackagePath>Assets\FB_ICON.png</PackagePath>
+      <Modified>2015-01-19T16:44:07.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\inflogo.png">
+      <PackagePath>Assets\inflogo.png</PackagePath>
+      <Modified>2015-01-19T16:44:07.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\inflogo2.png">
+      <PackagePath>Assets\inflogo2.png</PackagePath>
+      <Modified>2015-01-19T16:44:08.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\INFO_CHAT %28Name%29.png">
+      <PackagePath>Assets\INFO_CHAT %28Name%29.png</PackagePath>
+      <Modified>2015-01-19T16:44:09.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\INFO_CHAT_PT2.png">
+      <PackagePath>Assets\INFO_CHAT_PT2.png</PackagePath>
+      <Modified>2015-01-19T16:44:08.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\LOGO - INFORMATICS NG.png">
+      <PackagePath>Assets\LOGO - INFORMATICS NG.png</PackagePath>
+      <Modified>2015-01-19T16:44:11.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:09.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:10.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:10.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:10.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\logo11.png">
+      <PackagePath>Assets\logo11.png</PackagePath>
+      <Modified>2015-01-19T16:44:10.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\logo12.png">
+      <PackagePath>Assets\logo12.png</PackagePath>
+      <Modified>2015-01-19T16:44:10.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:10.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:11.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:11.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:11.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:11.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:11.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:13.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:11.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:12.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:12.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:13.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:12.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:13.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:13.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\trial for tiles.png">
+      <PackagePath>Assets\trial for tiles.png</PackagePath>
+      <Modified>2015-01-19T16:44:13.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\twitter.png">
+      <PackagePath>Assets\twitter.png</PackagePath>
+      <Modified>2015-01-19T16:44:13.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\twitterfeed1.png">
+      <PackagePath>Assets\twitterfeed1.png</PackagePath>
+      <Modified>2015-01-19T16:44:13.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\TWITTERRR_ICON.png">
+      <PackagePath>Assets\TWITTERRR_ICON.png</PackagePath>
+      <Modified>2015-01-19T16:44:13.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:15.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:14.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:15.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:15.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Badge Logo\24 x 24.png">
+      <PackagePath>ICNG Assets\Badge Logo\24 x 24.png</PackagePath>
+      <Modified>2015-01-19T16:44:20.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Badge Logo\33 x 33.png">
+      <PackagePath>ICNG Assets\Badge Logo\33 x 33.png</PackagePath>
+      <Modified>2015-01-19T16:44:20.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Badge Logo\43x 43.png">
+      <PackagePath>ICNG Assets\Badge Logo\43x 43.png</PackagePath>
+      <Modified>2015-01-13T15:35:32.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Splash Screen\864 x 420.png">
+      <PackagePath>ICNG Assets\Splash Screen\864 x 420.png</PackagePath>
+      <Modified>2015-01-19T16:44:21.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Splash Screen\SplashScreen.scale-100.png">
+      <PackagePath>ICNG Assets\Splash Screen\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2015-01-19T16:44:21.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Splash Screen\SplashScreen.scale-180.png">
+      <PackagePath>ICNG Assets\Splash Screen\SplashScreen.scale-180.png</PackagePath>
+      <Modified>2015-01-19T16:44:23.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 150x150 logo\120 x 120.png">
+      <PackagePath>ICNG Assets\Square 150x150 logo\120 x 120.png</PackagePath>
+      <Modified>2015-01-19T16:44:21.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 150x150 logo\150 x 150.png">
+      <PackagePath>ICNG Assets\Square 150x150 logo\150 x 150.png</PackagePath>
+      <Modified>2015-01-19T16:44:21.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 150x150 logo\210 x 210.png">
+      <PackagePath>ICNG Assets\Square 150x150 logo\210 x 210.png</PackagePath>
+      <Modified>2015-01-19T16:44:22.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 150x150 logo\270 x 270.png">
+      <PackagePath>ICNG Assets\Square 150x150 logo\270 x 270.png</PackagePath>
+      <Modified>2015-01-19T16:44:22.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 300 x 300 logo\248 x 248.png">
+      <PackagePath>ICNG Assets\Square 300 x 300 logo\248 x 248.png</PackagePath>
+      <Modified>2015-01-19T16:44:22.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 300 x 300 logo\310 x 310.png">
+      <PackagePath>ICNG Assets\Square 300 x 300 logo\310 x 310.png</PackagePath>
+      <Modified>2015-01-19T16:44:23.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 300 x 300 logo\434 x 434.png">
+      <PackagePath>ICNG Assets\Square 300 x 300 logo\434 x 434.png</PackagePath>
+      <Modified>2015-01-19T16:44:23.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 300 x 300 logo\558 x 558.png">
+      <PackagePath>ICNG Assets\Square 300 x 300 logo\558 x 558.png</PackagePath>
+      <Modified>2015-01-19T16:44:25.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 310 x 310 logo\248 x 248.png">
+      <PackagePath>ICNG Assets\Square 310 x 310 logo\248 x 248.png</PackagePath>
+      <Modified>2015-01-19T16:44:23.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 310 x 310 logo\310 x 310.png">
+      <PackagePath>ICNG Assets\Square 310 x 310 logo\310 x 310.png</PackagePath>
+      <Modified>2015-01-19T16:44:24.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 310 x 310 logo\434 x 434.png">
+      <PackagePath>ICNG Assets\Square 310 x 310 logo\434 x 434.png</PackagePath>
+      <Modified>2015-01-19T16:44:25.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 310 x 310 logo\558 x 558.scale-100.png">
+      <PackagePath>ICNG Assets\Square 310 x 310 logo\558 x 558.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:25.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 310 x 310 logo\558 x 558.scale-140.png">
+      <PackagePath>ICNG Assets\Square 310 x 310 logo\558 x 558.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:25.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 310 x 310 logo\558 x 558.scale-180.png">
+      <PackagePath>ICNG Assets\Square 310 x 310 logo\558 x 558.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:26.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 310 x 310 logo\558 x 558.scale-80.png">
+      <PackagePath>ICNG Assets\Square 310 x 310 logo\558 x 558.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:26.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 70x70 logo\126 x 126.scale-100.png">
+      <PackagePath>ICNG Assets\Square 70x70 logo\126 x 126.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:27.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 70x70 logo\126 x 126.scale-140.png">
+      <PackagePath>ICNG Assets\Square 70x70 logo\126 x 126.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:26.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 70x70 logo\126 x 126.scale-180.png">
+      <PackagePath>ICNG Assets\Square 70x70 logo\126 x 126.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:27.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 70x70 logo\126 x 126.scale-80.png">
+      <PackagePath>ICNG Assets\Square 70x70 logo\126 x 126.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T16:44:27.208</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 70x70 logo\56 x 56.png">
+      <PackagePath>ICNG Assets\Square 70x70 logo\56 x 56.png</PackagePath>
+      <Modified>2015-01-19T16:44:27.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 70x70 logo\70 x 70.png">
+      <PackagePath>ICNG Assets\Square 70x70 logo\70 x 70.png</PackagePath>
+      <Modified>2015-01-19T16:44:27.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Square 70x70 logo\98 x 98.png">
+      <PackagePath>ICNG Assets\Square 70x70 logo\98 x 98.png</PackagePath>
+      <Modified>2015-01-19T16:44:27.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Store Logo\50 x 50.png">
+      <PackagePath>ICNG Assets\Store Logo\50 x 50.png</PackagePath>
+      <Modified>2015-01-19T16:44:28.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Store Logo\70 x 70.png">
+      <PackagePath>ICNG Assets\Store Logo\70 x 70.png</PackagePath>
+      <Modified>2015-01-19T16:44:28.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Store Logo\90 x 90.png">
+      <PackagePath>ICNG Assets\Store Logo\90 x 90.png</PackagePath>
+      <Modified>2015-01-19T16:44:28.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Wide 310x150 logo\248 x 120.png">
+      <PackagePath>ICNG Assets\Wide 310x150 logo\248 x 120.png</PackagePath>
+      <Modified>2015-01-19T16:44:28.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Wide 310x150 logo\310 x 150.png">
+      <PackagePath>ICNG Assets\Wide 310x150 logo\310 x 150.png</PackagePath>
+      <Modified>2015-01-19T16:44:28.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Wide 310x150 logo\434 x 210.png">
+      <PackagePath>ICNG Assets\Wide 310x150 logo\434 x 210.png</PackagePath>
+      <Modified>2015-01-19T16:44:29.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\ICNG Assets\Wide 310x150 logo\558 x 270.png">
+      <PackagePath>ICNG Assets\Wide 310x150 logo\558 x 270.png</PackagePath>
+      <Modified>2015-01-19T16:44:29.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\Assets\Many Faces of Success %28Part 3%29 %281%29.mp4">
+      <PackagePath>Assets\Many Faces of Success %28Part 3%29 %281%29.mp4</PackagePath>
+      <Modified>2015-01-19T16:44:57.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-19T16:36:26.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Aboutus.xbf">
+      <PackagePath>Aboutus.xbf</PackagePath>
+      <Modified>2015-01-19T16:36:26.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\ADGAT.xbf">
+      <PackagePath>ADGAT.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\BasicPage1.xbf">
+      <PackagePath>BasicPage1.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\BSBA.xbf">
+      <PackagePath>BSBA.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\BSCS.xbf">
+      <PackagePath>BSCS.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\BSIT.xbf">
+      <PackagePath>BSIT.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles1\LiveTileType1.xbf">
+      <PackagePath>Custom Tiles1\LiveTileType1.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles1\LiveTileType2.xbf">
+      <PackagePath>Custom Tiles1\LiveTileType2.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles1\LiveTileType3.xbf">
+      <PackagePath>Custom Tiles1\LiveTileType3.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles1\LiveTileType4.xbf">
+      <PackagePath>Custom Tiles1\LiveTileType4.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles1\LiveTileType5.xbf">
+      <PackagePath>Custom Tiles1\LiveTileType5.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles1\SmallTilePhoto.xbf">
+      <PackagePath>Custom Tiles1\SmallTilePhoto.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles\SmallTile.xbf">
+      <PackagePath>Custom Tiles\SmallTile.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithIcons\LargeTileIcon.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithIcons\MediumTileIcon.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithIcons\WideTileIcon.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles\TilesWithImages\LargeTileImage.xbf">
+      <PackagePath>Custom Tiles\TilesWithImages\LargeTileImage.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles\TilesWithImages\MediumTileImage.xbf">
+      <PackagePath>Custom Tiles\TilesWithImages\MediumTileImage.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Custom Tiles\TilesWithImages\WideTileImage.xbf">
+      <PackagePath>Custom Tiles\TilesWithImages\WideTileImage.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Gallery.xbf">
+      <PackagePath>Gallery.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-01-19T16:36:26.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\SchoolActivities.xbf">
+      <PackagePath>SchoolActivities.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Tiles.xbf">
+      <PackagePath>Tiles.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:22.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\Bing.Maps\Themes\Generic.xbf">
+      <PackagePath>Bing.Maps\Themes\Generic.xbf</PackagePath>
+      <Modified>2015-01-19T17:10:23.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\App8.Windows.xr.xml">
+      <PackagePath>App8.Windows.xr.xml</PackagePath>
+      <Modified>2015-01-19T16:08:39.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\ARM\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-19T17:10:29.075</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

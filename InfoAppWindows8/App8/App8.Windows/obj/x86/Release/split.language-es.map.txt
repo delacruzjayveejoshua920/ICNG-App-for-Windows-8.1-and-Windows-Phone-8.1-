@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-es"
+"ResourceDimensions"		"language-es"
+"ResourceDimensions"		"language-es-es"
+
+[Files]
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\split.language-es.pri"			"resources.pri"

@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-zh-hans"
+"ResourceDimensions"		"language-zh-hans"
+
+[Files]
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\ICNG Phone\obj\x86\Release\split.language-zh-hans.pri"			"resources.pri"

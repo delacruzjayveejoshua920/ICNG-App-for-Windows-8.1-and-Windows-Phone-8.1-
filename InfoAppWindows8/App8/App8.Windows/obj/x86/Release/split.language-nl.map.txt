@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-nl"
+"ResourceDimensions"		"language-nl-nl"
+"ResourceDimensions"		"language-nl-be"
+
+[Files]
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\split.language-nl.pri"			"resources.pri"

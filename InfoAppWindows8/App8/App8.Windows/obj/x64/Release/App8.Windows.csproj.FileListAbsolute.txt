@@ -1,0 +1,396 @@
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\App.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Aboutus.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ADGAT.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\BasicPage1.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\BSBA.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\BSCS.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\BSIT.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles1\LiveTileType1.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles1\LiveTileType2.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles1\LiveTileType3.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles1\LiveTileType4.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles1\LiveTileType5.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles1\SmallTilePhoto.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles\SmallTile.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Gallery.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Login.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\MainPage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\SchoolActivities.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Tiles.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Views\Calendar.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Views\Contacts.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Views\MyFiles.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Bing.Maps\Themes\Generic.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\App8.Windows.xr.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\App8.Windows.exe
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\App8.Windows.pdb
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\resources.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\AppxManifest.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\App8.Windows.build.appxrecipe
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Bing.Maps.winmd
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Bing.Maps.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\BackgroundTasks.winmd
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Data.Edm.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Data.OData.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Data.Services.Client.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.winmd
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.OData.Client.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.OData.Core.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.OData.Edm.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Office365.Discovery.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Office365.OAuth.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Office365.OAuth.WindowsStore.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Office365.OutlookServices.Portable.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Office365.SharePoint.Portable.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Spatial.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\System.Net.Http.Extensions.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\System.Net.Http.Primitives.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\System.Spatial.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\BackgroundTasks.pdb
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\BackgroundTasks.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Data.Edm.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Data.OData.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Data.Services.Client.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.OData.Client.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.OData.Core.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.OData.Edm.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.Spatial.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Microsoft.WindowsAzure.Mobile.Ext.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\System.Net.Http.Extensions.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\System.Net.Http.Primitives.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\System.Spatial.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\de\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\es\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\it\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\de\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\es\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\fr\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\it\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ja\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ko\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ru\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hans\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hant\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\de\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\es\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\fr\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\it\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ja\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ko\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ru\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\de\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\es\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\it\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\de\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\es\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\fr\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\it\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ja\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ko\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ru\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\de\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\es\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\fr\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\it\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ja\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ko\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\ru\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hans\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\zh-Hant\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\App8.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\App.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\App.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Aboutus.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Aboutus.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\ADGAT.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\ADGAT.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BasicPage1.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BasicPage1.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BSBA.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BSBA.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BSCS.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BSCS.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BSIT.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BSIT.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType1.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType1.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType2.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType2.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType3.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType3.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType4.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType4.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType5.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType5.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\SmallTilePhoto.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\SmallTilePhoto.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\SmallTile.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\SmallTile.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithIcons\WideTileIcon.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithIcons\WideTileIcon.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithImages\LargeTileImage.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithImages\LargeTileImage.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithImages\MediumTileImage.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithImages\MediumTileImage.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithImages\WideTileImage.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithImages\WideTileImage.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Gallery.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Gallery.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Login.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Login.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\MainPage.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\MainPage.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\SchoolActivities.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\SchoolActivities.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Tiles.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Tiles.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Views\Calendar.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Views\Calendar.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Views\Contacts.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Views\Contacts.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Views\MyFiles.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Views\MyFiles.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\XamlTypeInfo.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\App.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Aboutus.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\ADGAT.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BasicPage1.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BSBA.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BSCS.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BSIT.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType1.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType2.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType3.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType4.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType5.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\SmallTilePhoto.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\SmallTile.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithImages\LargeTileImage.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithImages\MediumTileImage.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithImages\WideTileImage.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Gallery.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Login.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\SchoolActivities.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Tiles.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Views\Calendar.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Views\Contacts.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Views\MyFiles.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\App.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Aboutus.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\ADGAT.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BasicPage1.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BSBA.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BSCS.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\BSIT.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType1.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType2.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType3.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType4.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\LiveTileType5.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles1\SmallTilePhoto.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\SmallTile.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Gallery.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Login.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\SchoolActivities.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Tiles.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Views\Calendar.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Views\Contacts.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Views\MyFiles.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\XamlSaveStateFile.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\MainPage.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\MainPage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Bing.Maps\Themes\Generic.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\App8.Windows.exe
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\App8.Windows.pdb
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Services.Client\en-US\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Services.Client\de\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Services.Client\es\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Services.Client\fr\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Services.Client\it\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Services.Client\ja\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Services.Client\ko\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Services.Client\ru\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Services.Client\zh-Hans\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Services.Client\zh-Hant\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Client\en-US\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Client\de\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Client\es\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Client\fr\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Client\it\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Client\ja\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Client\ko\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Client\ru\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Client\zh-Hans\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Client\zh-Hant\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Core\en-US\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Core\de\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Core\es\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Core\fr\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Core\it\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Core\ja\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Core\ko\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Core\ru\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Core\zh-Hans\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Core\zh-Hant\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Edm\en-US\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Edm\de\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Edm\es\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Edm\fr\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Edm\it\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Edm\ja\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Edm\ko\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Edm\ru\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Edm\zh-Hans\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Edm\zh-Hant\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Office365.Discovery\en-US\Microsoft.Office365.Discovery.Properties.Resources.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Spatial\en-US\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Spatial\de\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Spatial\es\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Spatial\fr\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Spatial\it\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Spatial\ja\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Spatial\ko\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Spatial\ru\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Spatial\zh-Hans\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Spatial\zh-Hant\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\System.Spatial\en-US\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\System.Spatial\de\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\System.Spatial\es\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\System.Spatial\fr\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\System.Spatial\it\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\System.Spatial\ja\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\System.Spatial\ko\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\System.Spatial\ru\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\System.Spatial\zh-Hans\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\System.Spatial\zh-Hant\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\App8.Windows.csproj.GenerateResource.Cache
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Edm.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Edm\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.OData.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.OData\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Services.Client.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Data.Services.Client\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Client.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Client\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Core.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Core\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Edm.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.OData.Edm\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Office365.Discovery.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Office365.Discovery\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Spatial.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.Spatial\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\System.Spatial.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\System.Spatial\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\priconfig.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\priconfig.xml.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\layout.resfiles
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\layout.resfiles.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\resources.resfiles
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\resources.resfiles.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\pri.resfiles
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\pri.resfiles.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\qualifiers.txt.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\ProjectArchitectures.txt

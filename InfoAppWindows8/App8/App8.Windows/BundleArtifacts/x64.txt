@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\App8.Windows_1.0.0.17_Bundle\App8.Windows_1.0.0.17_x64.appx
+SymbolPackage=C:\Users\Jayvee\Desktop\InfoAppDeploy\App8.Windows_1.0.0.17_Test\App8.Windows_1.0.0.17_x64.appxsym
+ResourcePack=C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\App8.Windows_1.0.0.17_Bundle\App8.Windows_1.0.0.17_scale-140.appx
+ResourcePack=C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x64\Release\App8.Windows_1.0.0.17_Bundle\App8.Windows_1.0.0.17_scale-180.appx

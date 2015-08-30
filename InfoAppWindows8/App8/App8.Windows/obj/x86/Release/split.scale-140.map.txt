@@ -1,0 +1,14 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\split.scale-140.pri"			"resources.pri"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\ICNG Assets\Square 70x70 logo\126 x 126.scale-140.png"			"ICNG Assets\Square 70x70 logo\126 x 126.scale-140.png"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\ICNG Assets\Square 310 x 310 logo\558 x 558.scale-140.png"			"ICNG Assets\Square 310 x 310 logo\558 x 558.scale-140.png"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\Assets\Wide310x150Logo.scale-140.png"			"Assets\Wide310x150Logo.scale-140.png"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\Assets\StoreLogo.scale-140.png"			"Assets\StoreLogo.scale-140.png"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\Assets\SplashScreen.scale-140.png"			"Assets\SplashScreen.scale-140.png"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\Assets\SmallLogo.scale-140.png"			"Assets\SmallLogo.scale-140.png"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\Assets\Logo.scale-140.png"			"Assets\Logo.scale-140.png"
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\PackageLayout\Assets\BadgeLogo.scale-140.png"			"Assets\BadgeLogo.scale-140.png"

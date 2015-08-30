@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-sl"
+"ResourceDimensions"		"language-sl"
+
+[Files]
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x64\Release\split.language-sl.pri"			"resources.pri"

@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-kok"
+"ResourceDimensions"		"language-kok"
+
+[Files]
+"E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\split.language-kok.pri"			"resources.pri"

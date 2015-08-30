@@ -1,0 +1,2 @@
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\App8.Windows.csproj;x64
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\BackgroundTasks.csproj;x64

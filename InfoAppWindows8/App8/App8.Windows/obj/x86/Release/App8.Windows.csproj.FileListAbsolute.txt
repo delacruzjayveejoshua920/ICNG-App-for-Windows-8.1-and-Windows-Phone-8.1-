@@ -1,0 +1,1268 @@
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Aboutus.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ADGAT.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BasicPage1.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BSBA.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BSCS.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BSIT.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType1.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType2.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType3.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType4.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType5.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\SmallTilePhoto.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\SmallTile.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Gallery.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Login.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\MainPage.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\SchoolActivities.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Tiles.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Views\Calendar.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Views\Contacts.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Views\MyFiles.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Bing.Maps\Themes\Generic.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App8.Windows.xr.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App8.Windows.exe
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App8.Windows.pdb
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\resources.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\AppxManifest.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App8.Windows.build.appxrecipe
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Bing.Maps.winmd
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Bing.Maps.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BackgroundTasks.winmd
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.Edm.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.OData.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.Services.Client.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.winmd
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Client.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Core.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Edm.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.Discovery.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.OAuth.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.OAuth.WindowsStore.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.OutlookServices.Portable.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.SharePoint.Portable.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Spatial.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Net.Http.Extensions.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Net.Http.Primitives.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Spatial.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BackgroundTasks.pdb
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BackgroundTasks.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.Edm.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.OData.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.Services.Client.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Client.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Core.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Edm.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Spatial.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.Ext.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Net.Http.Extensions.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Net.Http.Primitives.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Spatial.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.Data.OData.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.Data.OData.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.Data.OData.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.OData.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.OData.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.OData.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.OData.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.OData.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.OData.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.OData.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.OData.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.OData.Client.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.OData.Core.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.OData.Core.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.OData.Core.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.OData.Core.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.OData.Core.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.OData.Core.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.OData.Core.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.OData.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.OData.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.OData.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\System.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\System.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\System.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\System.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\System.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\System.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\System.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\System.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\System.Spatial.resources.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App8.Windows.csprojResolveAssemblyReference.cache
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Aboutus.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Aboutus.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ADGAT.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ADGAT.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BasicPage1.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BasicPage1.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSBA.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSBA.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSCS.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSCS.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSIT.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSIT.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType1.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType1.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType2.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType2.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType3.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType3.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType4.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType4.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType5.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType5.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\SmallTilePhoto.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\SmallTilePhoto.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\SmallTile.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\SmallTile.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Gallery.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Gallery.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Login.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Login.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MainPage.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MainPage.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\SchoolActivities.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\SchoolActivities.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Tiles.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Tiles.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Calendar.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Calendar.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Contacts.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Contacts.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\MyFiles.g.i.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\MyFiles.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Aboutus.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ADGAT.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BasicPage1.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSBA.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSCS.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSIT.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType1.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType2.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType3.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType4.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType5.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\SmallTilePhoto.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\SmallTile.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Gallery.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Login.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MainPage.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\SchoolActivities.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Tiles.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Calendar.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Contacts.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\MyFiles.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Aboutus.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ADGAT.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BasicPage1.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSBA.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSCS.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSIT.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType1.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType2.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType3.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType4.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType5.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\SmallTilePhoto.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\SmallTile.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Gallery.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Login.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MainPage.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\SchoolActivities.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Tiles.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Calendar.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Contacts.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\MyFiles.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\XamlSaveStateFile.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Bing.Maps\Themes\Generic.xbf
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App8.Windows.exe
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App8.Windows.pdb
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\en-US\System.Data.Services.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\de\System.Data.Services.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\es\System.Data.Services.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\fr\System.Data.Services.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\it\System.Data.Services.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\ja\System.Data.Services.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\ko\System.Data.Services.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\ru\System.Data.Services.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\zh-Hans\System.Data.Services.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\zh-Hant\System.Data.Services.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\en-US\Microsoft.OData.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\de\Microsoft.OData.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\es\Microsoft.OData.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\fr\Microsoft.OData.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\it\Microsoft.OData.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\ja\Microsoft.OData.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\ko\Microsoft.OData.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\ru\Microsoft.OData.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\zh-Hans\Microsoft.OData.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\zh-Hant\Microsoft.OData.Client.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\en-US\Microsoft.OData.Core.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\de\Microsoft.OData.Core.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\es\Microsoft.OData.Core.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\fr\Microsoft.OData.Core.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\it\Microsoft.OData.Core.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\ja\Microsoft.OData.Core.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\ko\Microsoft.OData.Core.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\ru\Microsoft.OData.Core.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\zh-Hans\Microsoft.OData.Core.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\zh-Hant\Microsoft.OData.Core.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\en-US\Microsoft.OData.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\de\Microsoft.OData.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\es\Microsoft.OData.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\fr\Microsoft.OData.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\it\Microsoft.OData.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\ja\Microsoft.OData.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\ko\Microsoft.OData.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\ru\Microsoft.OData.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\zh-Hans\Microsoft.OData.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\zh-Hant\Microsoft.OData.Edm.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\en-US\Microsoft.Office365.Discovery.Properties.Resources.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\en-US\Microsoft.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\de\Microsoft.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\es\Microsoft.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\fr\Microsoft.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\it\Microsoft.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\ja\Microsoft.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\ko\Microsoft.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\ru\Microsoft.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\zh-Hans\Microsoft.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\zh-Hant\Microsoft.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\en-US\System.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\de\System.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\es\System.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\fr\System.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\it\System.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\ja\System.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\ko\System.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\ru\System.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\zh-Hans\System.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\zh-Hant\System.Spatial.resw
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App8.Windows.csproj.GenerateResource.Cache
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\qualifiers.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\qualifiers.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\qualifiers.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\qualifiers.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\qualifiers.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\qualifiers.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\qualifiers.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\qualifiers.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\qualifiers.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\priconfig.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\layout.resfiles
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\resources.resfiles
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\pri.resfiles
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\qualifiers.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ProjectArchitectures.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Aboutus.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ADGAT.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BasicPage1.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BSBA.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BSCS.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BSIT.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType1.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType2.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType3.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType4.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType5.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\SmallTilePhoto.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\SmallTile.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Gallery.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Login.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\MainPage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\SchoolActivities.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Tiles.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Views\Calendar.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Views\Contacts.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Views\MyFiles.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Bing.Maps\Themes\Generic.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App8.Windows.xr.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App8.Windows.exe
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App8.Windows.pdb
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\resources.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\AppxManifest.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App8.Windows.build.appxrecipe
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Bing.Maps.winmd
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Bing.Maps.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BackgroundTasks.winmd
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.Edm.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.OData.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.Services.Client.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.winmd
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Client.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Core.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Edm.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.Discovery.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.OAuth.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.OAuth.WindowsStore.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.OutlookServices.Portable.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.SharePoint.Portable.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Spatial.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Net.Http.Extensions.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Net.Http.Primitives.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Spatial.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BackgroundTasks.pdb
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BackgroundTasks.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.Edm.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.OData.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.Services.Client.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Client.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Core.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Edm.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Spatial.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.Ext.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Net.Http.Extensions.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Net.Http.Primitives.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Spatial.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.OData.Client.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\System.Spatial.resources.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App8.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Aboutus.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Aboutus.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ADGAT.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ADGAT.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BasicPage1.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BasicPage1.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSBA.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSBA.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSCS.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSCS.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSIT.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSIT.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType1.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType1.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType2.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType2.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType3.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType3.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType4.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType4.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType5.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType5.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\SmallTilePhoto.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\SmallTilePhoto.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\SmallTile.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\SmallTile.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Gallery.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Gallery.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Login.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Login.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MainPage.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MainPage.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\SchoolActivities.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\SchoolActivities.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Tiles.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Tiles.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Calendar.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Calendar.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Contacts.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Contacts.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\MyFiles.g.i.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\MyFiles.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Aboutus.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ADGAT.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BasicPage1.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSBA.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSCS.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSIT.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType1.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType2.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType3.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType4.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType5.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\SmallTilePhoto.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\SmallTile.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Gallery.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Login.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MainPage.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\SchoolActivities.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Tiles.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Calendar.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Contacts.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\MyFiles.xaml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Aboutus.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ADGAT.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BasicPage1.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSBA.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSCS.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSIT.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType1.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType2.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType3.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType4.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType5.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\SmallTilePhoto.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\SmallTile.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Gallery.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Login.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MainPage.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\SchoolActivities.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Tiles.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Calendar.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Contacts.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\MyFiles.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\XamlSaveStateFile.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Bing.Maps\Themes\Generic.xbf
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App8.Windows.exe
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App8.Windows.pdb
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\en-US\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\de\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\es\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\fr\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\it\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\ja\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\ko\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\ru\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\zh-Hans\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\zh-Hant\System.Data.Services.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\en-US\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\de\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\es\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\fr\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\it\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\ja\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\ko\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\ru\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\zh-Hans\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\zh-Hant\Microsoft.OData.Client.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\en-US\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\de\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\es\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\fr\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\it\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\ja\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\ko\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\ru\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\zh-Hans\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\zh-Hant\Microsoft.OData.Core.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\en-US\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\de\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\es\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\fr\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\it\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\ja\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\ko\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\ru\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\zh-Hans\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\zh-Hant\Microsoft.OData.Edm.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\en-US\Microsoft.Office365.Discovery.Properties.Resources.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\en-US\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\de\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\es\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\fr\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\it\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\ja\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\ko\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\ru\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\zh-Hans\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\zh-Hant\Microsoft.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\en-US\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\de\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\es\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\fr\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\it\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\ja\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\ko\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\ru\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\zh-Hans\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\zh-Hant\System.Spatial.resw
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App8.Windows.csproj.GenerateResource.Cache
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\priconfig.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\layout.resfiles
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\resources.resfiles
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\pri.resfiles
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ProjectArchitectures.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App8.Windows.exe
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App8.Windows.pdb
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Aboutus.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ADGAT.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BasicPage1.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BSBA.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BSCS.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BSIT.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType1.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType2.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType3.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType4.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\LiveTileType5.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles1\SmallTilePhoto.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\SmallTile.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Gallery.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Login.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\MainPage.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\SchoolActivities.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Tiles.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Views\Calendar.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Views\Contacts.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Views\MyFiles.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Bing.Maps\Themes\Generic.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App8.Windows.xr.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App8.Windows.exe
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App8.Windows.pdb
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\resources.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\AppxManifest.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\App8.Windows.build.appxrecipe
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Bing.Maps.winmd
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Bing.Maps.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BackgroundTasks.winmd
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.Edm.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.OData.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.Services.Client.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.winmd
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Client.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Core.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Edm.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.Discovery.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.OAuth.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.OAuth.WindowsStore.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.OutlookServices.Portable.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Office365.SharePoint.Portable.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Spatial.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Newtonsoft.Json.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Net.Http.Extensions.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Net.Http.Primitives.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Spatial.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BackgroundTasks.pdb
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\BackgroundTasks.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.Edm.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.OData.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Data.Services.Client.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Client.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Core.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.OData.Edm.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.Spatial.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Microsoft.WindowsAzure.Mobile.Ext.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\Newtonsoft.Json.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Net.Http.Extensions.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Net.Http.Primitives.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\System.Spatial.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.Data.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.Data.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.Data.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.Data.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.Data.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.Data.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.Data.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.Data.OData.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.Data.OData.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.Data.OData.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.Data.OData.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.Data.OData.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.Data.OData.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.Data.OData.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.Data.Services.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.Data.Services.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.Data.Services.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.Data.Services.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.Data.Services.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.Data.Services.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.Data.Services.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.OData.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.OData.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.OData.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.OData.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.OData.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.OData.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.OData.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.OData.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.OData.Client.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.OData.Core.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.OData.Core.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.OData.Core.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.OData.Core.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.OData.Core.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.OData.Core.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.OData.Core.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.OData.Core.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.OData.Core.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.OData.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.OData.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.OData.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.OData.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.OData.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.OData.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.OData.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.OData.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.OData.Edm.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\Microsoft.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\Microsoft.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\Microsoft.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\Microsoft.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\Microsoft.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\Microsoft.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\Microsoft.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\Microsoft.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\Microsoft.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\de\System.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\es\System.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\fr\System.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\it\System.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ja\System.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ko\System.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\ru\System.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hans\System.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\bin\x86\Release\zh-Hant\System.Spatial.resources.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App8.Windows.csprojResolveAssemblyReference.cache
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Aboutus.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Aboutus.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ADGAT.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ADGAT.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BasicPage1.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BasicPage1.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSBA.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSBA.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSCS.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSCS.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSIT.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSIT.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType1.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType1.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType2.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType2.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType3.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType3.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType4.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType4.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType5.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType5.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\SmallTilePhoto.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\SmallTilePhoto.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\SmallTile.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\SmallTile.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Gallery.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Gallery.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Login.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Login.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MainPage.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MainPage.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\SchoolActivities.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\SchoolActivities.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Tiles.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Tiles.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Calendar.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Calendar.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Contacts.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Contacts.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\MyFiles.g.i.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\MyFiles.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\XamlTypeInfo.g.cs
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Aboutus.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ADGAT.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BasicPage1.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSBA.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSCS.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSIT.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType1.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType2.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType3.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType4.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType5.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\SmallTilePhoto.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\SmallTile.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Gallery.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Login.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MainPage.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\SchoolActivities.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Tiles.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Calendar.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Contacts.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\MyFiles.xaml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Aboutus.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ADGAT.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BasicPage1.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSBA.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSCS.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\BSIT.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType1.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType2.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType3.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType4.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\LiveTileType5.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles1\SmallTilePhoto.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\SmallTile.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Gallery.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Login.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MainPage.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\SchoolActivities.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Tiles.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Calendar.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\Contacts.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Views\MyFiles.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\XamlSaveStateFile.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Bing.Maps\Themes\Generic.xbf
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\en-US\System.Data.Services.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\de\System.Data.Services.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\es\System.Data.Services.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\fr\System.Data.Services.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\it\System.Data.Services.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\ja\System.Data.Services.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\ko\System.Data.Services.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\ru\System.Data.Services.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\zh-Hans\System.Data.Services.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\zh-Hant\System.Data.Services.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\en-US\Microsoft.OData.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\de\Microsoft.OData.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\es\Microsoft.OData.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\fr\Microsoft.OData.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\it\Microsoft.OData.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\ja\Microsoft.OData.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\ko\Microsoft.OData.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\ru\Microsoft.OData.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\zh-Hans\Microsoft.OData.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\zh-Hant\Microsoft.OData.Client.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\en-US\Microsoft.OData.Core.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\de\Microsoft.OData.Core.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\es\Microsoft.OData.Core.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\fr\Microsoft.OData.Core.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\it\Microsoft.OData.Core.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\ja\Microsoft.OData.Core.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\ko\Microsoft.OData.Core.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\ru\Microsoft.OData.Core.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\zh-Hans\Microsoft.OData.Core.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\zh-Hant\Microsoft.OData.Core.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\en-US\Microsoft.OData.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\de\Microsoft.OData.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\es\Microsoft.OData.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\fr\Microsoft.OData.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\it\Microsoft.OData.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\ja\Microsoft.OData.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\ko\Microsoft.OData.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\ru\Microsoft.OData.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\zh-Hans\Microsoft.OData.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\zh-Hant\Microsoft.OData.Edm.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\en-US\Microsoft.Office365.Discovery.Properties.Resources.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\en-US\Microsoft.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\de\Microsoft.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\es\Microsoft.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\fr\Microsoft.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\it\Microsoft.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\ja\Microsoft.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\ko\Microsoft.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\ru\Microsoft.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\zh-Hans\Microsoft.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\zh-Hant\Microsoft.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\en-US\System.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\de\System.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\es\System.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\fr\System.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\it\System.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\ja\System.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\ko\System.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\ru\System.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\zh-Hans\System.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\zh-Hant\System.Spatial.resw
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\App8.Windows.csproj.GenerateResource.Cache
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\layout.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\layout.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\Resources.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\Resources.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\pri.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\pri.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\priconfig.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\priconfig.xml.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Edm\qualifiers.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\layout.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\layout.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\Resources.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\Resources.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\pri.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\pri.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\priconfig.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\priconfig.xml.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.OData\qualifiers.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\layout.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\layout.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\Resources.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\Resources.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\pri.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\pri.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\priconfig.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\priconfig.xml.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Data.Services.Client\qualifiers.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\layout.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\layout.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\Resources.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\Resources.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\pri.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\pri.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\priconfig.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\priconfig.xml.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Client\qualifiers.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\layout.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\layout.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\Resources.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\Resources.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\pri.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\pri.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\priconfig.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\priconfig.xml.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Core\qualifiers.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\layout.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\layout.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\Resources.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\Resources.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\pri.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\pri.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\priconfig.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\priconfig.xml.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.OData.Edm\qualifiers.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\layout.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\layout.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\Resources.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\Resources.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\pri.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\pri.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\priconfig.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\priconfig.xml.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Office365.Discovery\qualifiers.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\layout.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\layout.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\Resources.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\Resources.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\pri.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\pri.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\priconfig.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\priconfig.xml.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.Spatial\qualifiers.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\layout.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\layout.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\Resources.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\Resources.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\pri.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\pri.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\priconfig.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\priconfig.xml.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\System.Spatial\qualifiers.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\priconfig.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\priconfig.xml.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\layout.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\layout.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\resources.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\resources.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\pri.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\pri.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\qualifiers.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\qualifiers.txt.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\obj\x86\Release\ProjectArchitectures.txt

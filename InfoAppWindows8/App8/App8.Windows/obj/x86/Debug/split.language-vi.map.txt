@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-vi"
+"ResourceDimensions"		"language-vi-vn"
+"ResourceDimensions"		"language-vi"
+
+[Files]
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Debug\split.language-vi.pri"			"resources.pri"

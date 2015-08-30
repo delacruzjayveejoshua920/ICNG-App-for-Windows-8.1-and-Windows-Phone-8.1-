@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-fr"
+"ResourceDimensions"		"language-fr"
+
+[Files]
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\ICNG Phone\obj\x86\Release\split.language-fr.pri"			"resources.pri"

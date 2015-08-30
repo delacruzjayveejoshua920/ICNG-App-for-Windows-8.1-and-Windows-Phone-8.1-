@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DON</Machine>
+    <WindowsUser>DonCampos</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>5028d2b3-3202-4c3c-bf13-4e3132e4d756</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\ICNG Phone.exe">
+      <PackagePath>ICNG Phone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\ICNG Phone.exe.config">
+      <PackagePath>ICNG Phone.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Azure.ActiveDirectory.GraphClient.2.0.5\lib\portable-net40+wp8+win8+MonoAndroid10+MonoTouch10+WindowsPhoneApp81\Microsoft.Azure.ActiveDirectory.GraphClient.dll">
+      <PackagePath>Microsoft.Azure.ActiveDirectory.GraphClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Edm.5.6.3\lib\portable-net45+wp8+win8+wpa\Microsoft.Data.Edm.dll">
+      <PackagePath>Microsoft.Data.Edm.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.OData.5.6.3\lib\portable-net45+wp8+win8+wpa\Microsoft.Data.OData.dll">
+      <PackagePath>Microsoft.Data.OData.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Services.Client.5.6.3\lib\portable-net45+wp8+win8+wpa\Microsoft.Data.Services.Client.dll">
+      <PackagePath>Microsoft.Data.Services.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Client.6.10.0\lib\portable-net45+wp8+win8+wpa\Microsoft.OData.Client.dll">
+      <PackagePath>Microsoft.OData.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Core.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\Microsoft.OData.Core.dll">
+      <PackagePath>Microsoft.OData.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Edm.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\Microsoft.OData.Edm.dll">
+      <PackagePath>Microsoft.OData.Edm.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Office365.Discovery.1.0.22\lib\portable-net40+sl5+wp8+win8+MonoAndroid10+MonoTouch10+WindowsPhoneApp81\Microsoft.Office365.Discovery.dll">
+      <PackagePath>Microsoft.Office365.Discovery.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Office365.OAuth.Windows.1.0.22\lib\WindowsPhoneApp81\Microsoft.Office365.OAuth.dll">
+      <PackagePath>Microsoft.Office365.OAuth.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Office365.OAuth.Windows.1.0.22\lib\WindowsPhoneApp81\Microsoft.Office365.OAuth.WindowsPhone.WinRT.dll">
+      <PackagePath>Microsoft.Office365.OAuth.WindowsPhone.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Office365.OutlookServices.1.0.22\lib\portable-net40+sl5+wp8+win8+MonoAndroid10+MonoTouch10+WindowsPhoneApp81\Microsoft.Office365.OutlookServices.Portable.dll">
+      <PackagePath>Microsoft.Office365.OutlookServices.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Office365.SharePoint.1.0.22\lib\portable-net40+sl5+wp8+win8+MonoAndroid10+MonoTouch10+WindowsPhoneApp81\Microsoft.Office365.SharePoint.Portable.dll">
+      <PackagePath>Microsoft.Office365.SharePoint.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Spatial.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\Microsoft.Spatial.dll">
+      <PackagePath>Microsoft.Spatial.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\WindowsAzure.MobileServices.1.3.0\lib\wpa81\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\WindowsAzure.MobileServices.1.3.0\lib\wpa81\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Newtonsoft.Json.6.0.7\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Net.Http.2.2.28\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Net.Http.2.2.28\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\System.Spatial.5.6.3\lib\portable-net45+wp8+win8+wpa\System.Spatial.dll">
+      <PackagePath>System.Spatial.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Edm.5.6.3\lib\portable-net45+wp8+win8+wpa\de\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>de\Microsoft.Data.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Edm.5.6.3\lib\portable-net45+wp8+win8+wpa\es\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>es\Microsoft.Data.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Edm.5.6.3\lib\portable-net45+wp8+win8+wpa\fr\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>fr\Microsoft.Data.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Edm.5.6.3\lib\portable-net45+wp8+win8+wpa\it\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>it\Microsoft.Data.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Edm.5.6.3\lib\portable-net45+wp8+win8+wpa\ja\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>ja\Microsoft.Data.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Edm.5.6.3\lib\portable-net45+wp8+win8+wpa\ko\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>ko\Microsoft.Data.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Edm.5.6.3\lib\portable-net45+wp8+win8+wpa\ru\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>ru\Microsoft.Data.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Edm.5.6.3\lib\portable-net45+wp8+win8+wpa\zh-Hans\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Data.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Edm.5.6.3\lib\portable-net45+wp8+win8+wpa\zh-Hant\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Data.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.OData.5.6.3\lib\portable-net45+wp8+win8+wpa\de\Microsoft.Data.OData.resources.dll">
+      <PackagePath>de\Microsoft.Data.OData.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.OData.5.6.3\lib\portable-net45+wp8+win8+wpa\es\Microsoft.Data.OData.resources.dll">
+      <PackagePath>es\Microsoft.Data.OData.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.OData.5.6.3\lib\portable-net45+wp8+win8+wpa\fr\Microsoft.Data.OData.resources.dll">
+      <PackagePath>fr\Microsoft.Data.OData.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.OData.5.6.3\lib\portable-net45+wp8+win8+wpa\it\Microsoft.Data.OData.resources.dll">
+      <PackagePath>it\Microsoft.Data.OData.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.OData.5.6.3\lib\portable-net45+wp8+win8+wpa\ja\Microsoft.Data.OData.resources.dll">
+      <PackagePath>ja\Microsoft.Data.OData.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.OData.5.6.3\lib\portable-net45+wp8+win8+wpa\ko\Microsoft.Data.OData.resources.dll">
+      <PackagePath>ko\Microsoft.Data.OData.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.OData.5.6.3\lib\portable-net45+wp8+win8+wpa\ru\Microsoft.Data.OData.resources.dll">
+      <PackagePath>ru\Microsoft.Data.OData.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.OData.5.6.3\lib\portable-net45+wp8+win8+wpa\zh-Hans\Microsoft.Data.OData.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Data.OData.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.OData.5.6.3\lib\portable-net45+wp8+win8+wpa\zh-Hant\Microsoft.Data.OData.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Data.OData.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Services.Client.5.6.3\lib\portable-net45+wp8+win8+wpa\de\Microsoft.Data.Services.Client.resources.dll">
+      <PackagePath>de\Microsoft.Data.Services.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Services.Client.5.6.3\lib\portable-net45+wp8+win8+wpa\es\Microsoft.Data.Services.Client.resources.dll">
+      <PackagePath>es\Microsoft.Data.Services.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Services.Client.5.6.3\lib\portable-net45+wp8+win8+wpa\fr\Microsoft.Data.Services.Client.resources.dll">
+      <PackagePath>fr\Microsoft.Data.Services.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Services.Client.5.6.3\lib\portable-net45+wp8+win8+wpa\it\Microsoft.Data.Services.Client.resources.dll">
+      <PackagePath>it\Microsoft.Data.Services.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Services.Client.5.6.3\lib\portable-net45+wp8+win8+wpa\ja\Microsoft.Data.Services.Client.resources.dll">
+      <PackagePath>ja\Microsoft.Data.Services.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Services.Client.5.6.3\lib\portable-net45+wp8+win8+wpa\ko\Microsoft.Data.Services.Client.resources.dll">
+      <PackagePath>ko\Microsoft.Data.Services.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Services.Client.5.6.3\lib\portable-net45+wp8+win8+wpa\ru\Microsoft.Data.Services.Client.resources.dll">
+      <PackagePath>ru\Microsoft.Data.Services.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Services.Client.5.6.3\lib\portable-net45+wp8+win8+wpa\zh-Hans\Microsoft.Data.Services.Client.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Data.Services.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Data.Services.Client.5.6.3\lib\portable-net45+wp8+win8+wpa\zh-Hant\Microsoft.Data.Services.Client.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Data.Services.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Client.6.10.0\lib\portable-net45+wp8+win8+wpa\de\Microsoft.OData.Client.resources.dll">
+      <PackagePath>de\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Client.6.10.0\lib\portable-net45+wp8+win8+wpa\es\Microsoft.OData.Client.resources.dll">
+      <PackagePath>es\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Client.6.10.0\lib\portable-net45+wp8+win8+wpa\fr\Microsoft.OData.Client.resources.dll">
+      <PackagePath>fr\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Client.6.10.0\lib\portable-net45+wp8+win8+wpa\it\Microsoft.OData.Client.resources.dll">
+      <PackagePath>it\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Client.6.10.0\lib\portable-net45+wp8+win8+wpa\ja\Microsoft.OData.Client.resources.dll">
+      <PackagePath>ja\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Client.6.10.0\lib\portable-net45+wp8+win8+wpa\ko\Microsoft.OData.Client.resources.dll">
+      <PackagePath>ko\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Client.6.10.0\lib\portable-net45+wp8+win8+wpa\ru\Microsoft.OData.Client.resources.dll">
+      <PackagePath>ru\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Client.6.10.0\lib\portable-net45+wp8+win8+wpa\zh-Hans\Microsoft.OData.Client.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Client.6.10.0\lib\portable-net45+wp8+win8+wpa\zh-Hant\Microsoft.OData.Client.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Core.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\de\Microsoft.OData.Core.resources.dll">
+      <PackagePath>de\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Core.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\es\Microsoft.OData.Core.resources.dll">
+      <PackagePath>es\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Core.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\fr\Microsoft.OData.Core.resources.dll">
+      <PackagePath>fr\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Core.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\it\Microsoft.OData.Core.resources.dll">
+      <PackagePath>it\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Core.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\ja\Microsoft.OData.Core.resources.dll">
+      <PackagePath>ja\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Core.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\ko\Microsoft.OData.Core.resources.dll">
+      <PackagePath>ko\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Core.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\ru\Microsoft.OData.Core.resources.dll">
+      <PackagePath>ru\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Core.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\zh-Hans\Microsoft.OData.Core.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Core.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\zh-Hant\Microsoft.OData.Core.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Edm.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\de\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>de\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Edm.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\es\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>es\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Edm.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\fr\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>fr\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Edm.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\it\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>it\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Edm.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\ja\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>ja\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Edm.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\ko\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>ko\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Edm.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\ru\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>ru\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Edm.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\zh-Hans\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.OData.Edm.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\zh-Hant\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Spatial.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\de\Microsoft.Spatial.resources.dll">
+      <PackagePath>de\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Spatial.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\es\Microsoft.Spatial.resources.dll">
+      <PackagePath>es\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Spatial.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\fr\Microsoft.Spatial.resources.dll">
+      <PackagePath>fr\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Spatial.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\it\Microsoft.Spatial.resources.dll">
+      <PackagePath>it\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Spatial.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\ja\Microsoft.Spatial.resources.dll">
+      <PackagePath>ja\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Spatial.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\ko\Microsoft.Spatial.resources.dll">
+      <PackagePath>ko\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Spatial.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\ru\Microsoft.Spatial.resources.dll">
+      <PackagePath>ru\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Spatial.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\zh-Hans\Microsoft.Spatial.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.Spatial.6.10.0\lib\portable-net40+sl5+wp8+win8+wpa\zh-Hant\Microsoft.Spatial.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\System.Spatial.5.6.3\lib\portable-net45+wp8+win8+wpa\de\System.Spatial.resources.dll">
+      <PackagePath>de\System.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\System.Spatial.5.6.3\lib\portable-net45+wp8+win8+wpa\es\System.Spatial.resources.dll">
+      <PackagePath>es\System.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\System.Spatial.5.6.3\lib\portable-net45+wp8+win8+wpa\fr\System.Spatial.resources.dll">
+      <PackagePath>fr\System.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\System.Spatial.5.6.3\lib\portable-net45+wp8+win8+wpa\it\System.Spatial.resources.dll">
+      <PackagePath>it\System.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\System.Spatial.5.6.3\lib\portable-net45+wp8+win8+wpa\ja\System.Spatial.resources.dll">
+      <PackagePath>ja\System.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\System.Spatial.5.6.3\lib\portable-net45+wp8+win8+wpa\ko\System.Spatial.resources.dll">
+      <PackagePath>ko\System.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\System.Spatial.5.6.3\lib\portable-net45+wp8+win8+wpa\ru\System.Spatial.resources.dll">
+      <PackagePath>ru\System.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\System.Spatial.5.6.3\lib\portable-net45+wp8+win8+wpa\zh-Hans\System.Spatial.resources.dll">
+      <PackagePath>zh-Hans\System.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\System.Spatial.5.6.3\lib\portable-net45+wp8+win8+wpa\zh-Hant\System.Spatial.resources.dll">
+      <PackagePath>zh-Hant\System.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\packages\Microsoft.IdentityModel.Clients.ActiveDirectory.2.14.201151115\lib\wpa\Microsoft.IdentityModel.Clients.ActiveDirectory.winmd">
+      <PackagePath>Microsoft.IdentityModel.Clients.ActiveDirectory.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\10841566_1011401448876280_1088504470_n.jpg">
+      <PackagePath>Assets\10841566_1011401448876280_1088504470_n.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\10850512_1011401442209614_1199723777_n.jpg">
+      <PackagePath>Assets\10850512_1011401442209614_1199723777_n.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\10859737_1011401482209610_671366089_n.jpg">
+      <PackagePath>Assets\10859737_1011401482209610_671366089_n.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\20110512184151245_1235455782informatics.jpg">
+      <PackagePath>Assets\20110512184151245_1235455782informatics.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\ADGAT %28Better%29.jpg">
+      <PackagePath>Assets\ADGAT %28Better%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\background1.jpg">
+      <PackagePath>Assets\background1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\BS-Information-Technology.jpg">
+      <PackagePath>Assets\BS-Information-Technology.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\BSBA %28Better%29.jpg">
+      <PackagePath>Assets\BSBA %28Better%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\BSCS %28Better%29.jpg">
+      <PackagePath>Assets\BSCS %28Better%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\facebooktiles1 - Copy.jpg">
+      <PackagePath>Assets\facebooktiles1 - Copy.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\facebooktiles1.jpg">
+      <PackagePath>Assets\facebooktiles1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\facebooktiles2 - Copy.jpg">
+      <PackagePath>Assets\facebooktiles2 - Copy.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\facebooktiles2.jpg">
+      <PackagePath>Assets\facebooktiles2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\facebooktiles3 - Copy.jpg">
+      <PackagePath>Assets\facebooktiles3 - Copy.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\facebooktiles3.jpg">
+      <PackagePath>Assets\facebooktiles3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\GALLERY - FACILITIES.jpg">
+      <PackagePath>Assets\GALLERY - FACILITIES.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\Informatics Campus BLUR.jpg">
+      <PackagePath>Assets\Informatics Campus BLUR.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\instagramtile1.jpg">
+      <PackagePath>Assets\instagramtile1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\instagramtile2.jpg">
+      <PackagePath>Assets\instagramtile2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\instagramtile3.jpg">
+      <PackagePath>Assets\instagramtile3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\twittertiles1.jpg">
+      <PackagePath>Assets\twittertiles1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\twittertiles2.jpg">
+      <PackagePath>Assets\twittertiles2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\twittertiles3.jpg">
+      <PackagePath>Assets\twittertiles3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\_MG_8435.JPG">
+      <PackagePath>Assets\_MG_8435.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\_MG_8481.JPG">
+      <PackagePath>Assets\_MG_8481.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\image\0.JPG">
+      <PackagePath>image\0.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\image\1.JPG">
+      <PackagePath>image\1.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\image\2.JPG">
+      <PackagePath>image\2.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\image\3.JPG">
+      <PackagePath>image\3.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\image\4.JPG">
+      <PackagePath>image\4.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\image\5.JPG">
+      <PackagePath>image\5.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\1779976_673416822772065_2372477507244453392_n.png">
+      <PackagePath>Assets\1779976_673416822772065_2372477507244453392_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\facebookfeed2.png">
+      <PackagePath>Assets\facebookfeed2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\facebookfeed3.png">
+      <PackagePath>Assets\facebookfeed3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\facebooktiles1 %28with icon%29 - final.png">
+      <PackagePath>Assets\facebooktiles1 %28with icon%29 - final.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\FB_ICON.png">
+      <PackagePath>Assets\FB_ICON.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\inflogo.png">
+      <PackagePath>Assets\inflogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\inflogo2.png">
+      <PackagePath>Assets\inflogo2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\INFO_CHAT %28Name%29.png">
+      <PackagePath>Assets\INFO_CHAT %28Name%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\INFO_CHAT_PT2.png">
+      <PackagePath>Assets\INFO_CHAT_PT2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\LOGO - INFORMATICS NG.png">
+      <PackagePath>Assets\LOGO - INFORMATICS NG.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\logo11.png">
+      <PackagePath>Assets\logo11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\logo12.png">
+      <PackagePath>Assets\logo12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\PushPin.png">
+      <PackagePath>Assets\PushPin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\trial for tiles.png">
+      <PackagePath>Assets\trial for tiles.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\twitter.png">
+      <PackagePath>Assets\twitter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\twitterfeed1.png">
+      <PackagePath>Assets\twitterfeed1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\TWITTERRR_ICON.png">
+      <PackagePath>Assets\TWITTERRR_ICON.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Toolkit.Content\ApplicationBar.Add.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Toolkit.Content\ApplicationBar.Cancel.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Toolkit.Content\ApplicationBar.Check.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Toolkit.Content\ApplicationBar.Delete.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Toolkit.Content\ApplicationBar.Select.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Select.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Assets\Many Faces of Success %28Part 3%29 %281%29.mp4">
+      <PackagePath>Assets\Many Faces of Success %28Part 3%29 %281%29.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\README_FIRST.txt">
+      <PackagePath>README_FIRST.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\Custom Tiles\SmallTile.xbf">
+      <PackagePath>Custom Tiles\SmallTile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithIcons\LargeTileIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithIcons\MediumTileIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithIcons\WideTileIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xbf">
+      <PackagePath>Custom Tiles\TilesWithImages\LargeTileImage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xbf">
+      <PackagePath>Custom Tiles\TilesWithImages\MediumTileImage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\Custom Tiles\TilesWithImages\WideTileImage.xbf">
+      <PackagePath>Custom Tiles\TilesWithImages\WideTileImage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\PivotPage.xbf">
+      <PackagePath>PivotPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\Views\Calendar.xbf">
+      <PackagePath>Views\Calendar.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\Views\Contacts.xbf">
+      <PackagePath>Views\Contacts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\Views\MyFiles.xbf">
+      <PackagePath>Views\MyFiles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\ICNG Phone.xr.xml">
+      <PackagePath>ICNG Phone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Phone\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone.Debug</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone.Debug, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone.Debug</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone.Debug, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

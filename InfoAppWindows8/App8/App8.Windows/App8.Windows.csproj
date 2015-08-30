@@ -1,0 +1,589 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{38A3B5B7-7E00-46FC-B7B6-F0B39F60D001}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>App8</RootNamespace>
+    <AssemblyName>App8.Windows</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <SynthesizeLinkMetadata>true</SynthesizeLinkMetadata>
+    <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>App8.Windows_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundlePlatforms>x86</AppxBundlePlatforms>
+    <AppxPackageDir>C:\Users\Jayvee Dela Cruz\Desktop\infoapp\</AppxPackageDir>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_APP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aboutus.xaml.cs">
+      <DependentUpon>Aboutus.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ADGAT.xaml.cs">
+      <DependentUpon>ADGAT.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BasicPage1.xaml.cs">
+      <DependentUpon>BasicPage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BSBA.xaml.cs">
+      <DependentUpon>BSBA.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BSCS.xaml.cs">
+      <DependentUpon>BSCS.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BSIT.xaml.cs">
+      <DependentUpon>BSIT.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Common\BooleanToVisibilityConverter.cs" />
+    <Compile Include="Common\NavigationHelper.cs" />
+    <Compile Include="Common\ObservableDictionary.cs" />
+    <Compile Include="Common\RelayCommand.cs" />
+    <Compile Include="Common\SuspensionManager.cs" />
+    <Compile Include="Custom Tiles1\LiveTileType1.xaml.cs">
+      <DependentUpon>LiveTileType1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles1\LiveTileType2.xaml.cs">
+      <DependentUpon>LiveTileType2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles1\LiveTileType3.xaml.cs">
+      <DependentUpon>LiveTileType3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles1\LiveTileType4.xaml.cs">
+      <DependentUpon>LiveTileType4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles1\LiveTileType5.xaml.cs">
+      <DependentUpon>LiveTileType5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles1\SmallTilePhoto.xaml.cs">
+      <DependentUpon>SmallTilePhoto.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles\SmallTile.xaml.cs">
+      <DependentUpon>SmallTile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xaml.cs">
+      <DependentUpon>LargeTileFlipIcon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xaml.cs">
+      <DependentUpon>MediumTileFlipIcon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xaml.cs">
+      <DependentUpon>WideTileFlipIcon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles\TilesWithIcons\LargeTileIcon.xaml.cs">
+      <DependentUpon>LargeTileIcon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles\TilesWithIcons\MediumTileIcon.xaml.cs">
+      <DependentUpon>MediumTileIcon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles\TilesWithIcons\WideTileIcon.xaml.cs">
+      <DependentUpon>WideTileIcon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles\TilesWithImages\LargeTileImage.xaml.cs">
+      <DependentUpon>LargeTileImage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles\TilesWithImages\MediumTileImage.xaml.cs">
+      <DependentUpon>MediumTileImage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Custom Tiles\TilesWithImages\WideTileImage.xaml.cs">
+      <DependentUpon>WideTileImage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FacebookFeeds.cs" />
+    <Compile Include="Gallery.xaml.cs">
+      <DependentUpon>Gallery.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\AuthenticationHelper.cs" />
+    <Compile Include="Helpers\CalendarOperations.cs" />
+    <Compile Include="Helpers\ContactsOperations.cs" />
+    <Compile Include="Helpers\DiscoveryServiceCache.cs" />
+    <Compile Include="Helpers\Extensions.cs" />
+    <Compile Include="Helpers\FileOperations.cs" />
+    <Compile Include="Helpers\MessageDialogHelper.cs" />
+    <Compile Include="Helpers\UserOperations.cs" />
+    <Compile Include="Item.cs" />
+    <Compile Include="Item1.cs" />
+    <Compile Include="Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SchoolActivities.xaml.cs">
+      <DependentUpon>SchoolActivities.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tiles.xaml.cs">
+      <DependentUpon>Tiles.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\CalendarViewModel.cs" />
+    <Compile Include="ViewModels\ContactItemViewModel.cs" />
+    <Compile Include="ViewModels\ContactsViewModel.cs" />
+    <Compile Include="ViewModels\EventViewModel.cs" />
+    <Compile Include="ViewModels\FilesViewModel.cs" />
+    <Compile Include="ViewModels\FileSystemItemViewModel.cs" />
+    <Compile Include="ViewModels\LoggingViewModel.cs" />
+    <Compile Include="ViewModels\UserViewModel.cs" />
+    <Compile Include="ViewModels\ViewModelBase.cs" />
+    <Compile Include="Views\Calendar.xaml.cs" />
+    <Compile Include="Views\Contacts.xaml.cs" />
+    <Compile Include="Views\MyFiles.xaml.cs" />
+    <Compile Include="WebAuthenticationBrokerContinuationEventArgs.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="App8.Windows_TemporaryKey.pfx" />
+    <None Include="ICNG Assets\Splash Screen\Thumbs.db" />
+    <None Include="ICNG Assets\Square 150x150 logo\Thumbs.db" />
+    <None Include="ICNG Assets\Square 300 x 300 logo\Thumbs.db" />
+    <None Include="ICNG Assets\Square 310 x 310 logo\Thumbs.db" />
+    <None Include="ICNG Assets\Square 70x70 logo\Thumbs.db" />
+    <None Include="ICNG Assets\Store Logo\Thumbs.db" />
+    <None Include="ICNG Assets\Wide 310x150 logo\Thumbs.db" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Readme\Elmah.txt" />
+    <Content Include="Assets\10841566_1011401448876280_1088504470_n.jpg" />
+    <Content Include="Assets\10850512_1011401442209614_1199723777_n.jpg" />
+    <Content Include="Assets\10859737_1011401482209610_671366089_n.jpg" />
+    <Content Include="Assets\1779976_673416822772065_2372477507244453392_n.png" />
+    <Content Include="Assets\20110512184151245_1235455782informatics.jpg" />
+    <Content Include="Assets\ADGAT %28Better%29.jpg" />
+    <Content Include="Assets\ADGAT PIC.png" />
+    <Content Include="Assets\BACKGROUND.jpg" />
+    <Content Include="Assets\background1.jpg" />
+    <Content Include="Assets\BadgeLogo.scale-100.png" />
+    <Content Include="Assets\BadgeLogo.scale-140.png" />
+    <Content Include="Assets\BadgeLogo.scale-180.png" />
+    <Content Include="Assets\BS BA.png" />
+    <Content Include="Assets\BS CS.png" />
+    <Content Include="Assets\BS IT.png" />
+    <Content Include="Assets\BS-Information-Technology.jpg" />
+    <Content Include="Assets\BSBA %28Better%29.jpg" />
+    <Content Include="Assets\BSCS %28Better%29.jpg" />
+    <Content Include="Assets\facebookfeed2.png" />
+    <Content Include="Assets\facebookfeed3.png" />
+    <Content Include="Assets\facebooktiles1 %28with icon%29 - final.png" />
+    <Content Include="Assets\facebooktiles1.jpg" />
+    <Content Include="Assets\facebooktiles2.jpg" />
+    <Content Include="Assets\facebooktiles3.jpg" />
+    <Content Include="Assets\FB_ICON.png" />
+    <Content Include="Assets\GALLERY - FACILITIES.jpg" />
+    <Content Include="Assets\ICNG App - ABOUT US %28FINAL%29.png" />
+    <Content Include="Assets\ICNG App 480x800.png" />
+    <Content Include="Assets\ICNG App bg 720x1280.png" />
+    <Content Include="Assets\ICNG App BG 768x1280.png" />
+    <Content Include="Assets\ICNG BG 1080x1920.png" />
+    <Content Include="Assets\inflogo.png" />
+    <Content Include="Assets\inflogo2.png" />
+    <Content Include="Assets\INFO APP - Splash Screren - %28AS OF FEB 12%29.png" />
+    <Content Include="Assets\Informatics Campus BLUR.jpg" />
+    <Content Include="Assets\Informatics Campus Part 2.png" />
+    <Content Include="Assets\INFO_CHAT %28Name%29.png" />
+    <Content Include="Assets\INFO_CHAT_PT2.png" />
+    <Content Include="Assets\instagramtile1.jpg" />
+    <Content Include="Assets\instagramtile2.jpg" />
+    <Content Include="Assets\instagramtile3.jpg" />
+    <Content Include="Assets\LOGO - INFORMATICS NG.png" />
+    <Content Include="Assets\Logo.scale-100.png" />
+    <Content Include="Assets\Logo.scale-140.png" />
+    <Content Include="Assets\Logo.scale-180.png" />
+    <Content Include="Assets\Logo.scale-80.png" />
+    <Content Include="Assets\logo11.png" />
+    <Content Include="Assets\logo12.png" />
+    <Content Include="Assets\Many Faces of Success %28Part 3%29 %281%29.mp4" />
+    <Content Include="Assets\PushPin.png" />
+    <Content Include="Assets\skulBG.jpg" />
+    <Content Include="Assets\SmallLogo.scale-100.png" />
+    <Content Include="Assets\SmallLogo.scale-140.png" />
+    <Content Include="Assets\SmallLogo.scale-180.png" />
+    <Content Include="Assets\SmallLogo.scale-80.png" />
+    <Content Include="Assets\SmallLogo.targetsize-16.png" />
+    <Content Include="Assets\SmallLogo.targetsize-256.png" />
+    <Content Include="Assets\SmallLogo.targetsize-32.png" />
+    <Content Include="Assets\SmallLogo.targetsize-48.png" />
+    <Content Include="Assets\SplashScreen.scale-100.png" />
+    <Content Include="Assets\SplashScreen.scale-140.png" />
+    <Content Include="Assets\SplashScreen.scale-180.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\StoreLogo.scale-140.png" />
+    <Content Include="Assets\StoreLogo.scale-180.png" />
+    <Content Include="Assets\trial for tiles.png" />
+    <Content Include="Assets\twitter.png" />
+    <Content Include="Assets\twitterfeed1.png" />
+    <Content Include="Assets\TWITTERRR_ICON.png" />
+    <Content Include="Assets\twittertiles1.jpg" />
+    <Content Include="Assets\twittertiles2.jpg" />
+    <Content Include="Assets\twittertiles3.jpg" />
+    <Content Include="Assets\UserDefault.png" />
+    <Content Include="Assets\UserDefaultSignedIn.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-100.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-140.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-180.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-80.png" />
+    <Content Include="Assets\_MG_8435.JPG" />
+    <Content Include="Assets\_MG_8481.JPG" />
+    <Content Include="ICNG Assets\Badge Logo\24 x 24.png" />
+    <Content Include="ICNG Assets\Badge Logo\33 x 33.png" />
+    <Content Include="ICNG Assets\Badge Logo\43 x 43.png" />
+    <Content Include="ICNG Assets\Splash Screen\864 x 420.png" />
+    <Content Include="ICNG Assets\Splash Screen\SplashScreen.scale-100.png" />
+    <Content Include="ICNG Assets\Splash Screen\SplashScreen.scale-180.png" />
+    <Content Include="ICNG Assets\Square 150x150 logo\120 x 120.png" />
+    <Content Include="ICNG Assets\Square 150x150 logo\150 x 150.png" />
+    <Content Include="ICNG Assets\Square 150x150 logo\210 x 210.png" />
+    <Content Include="ICNG Assets\Square 150x150 logo\270 x 270.png" />
+    <Content Include="ICNG Assets\Square 300 x 300 logo\248 x 248.png" />
+    <Content Include="ICNG Assets\Square 300 x 300 logo\310 x 310.png" />
+    <Content Include="ICNG Assets\Square 300 x 300 logo\434 x 434.png" />
+    <Content Include="ICNG Assets\Square 300 x 300 logo\558 x 558.png" />
+    <Content Include="ICNG Assets\Square 310 x 310 logo\248 x 248.png" />
+    <Content Include="ICNG Assets\Square 310 x 310 logo\310 x 310.png" />
+    <Content Include="ICNG Assets\Square 310 x 310 logo\434 x 434.png" />
+    <Content Include="ICNG Assets\Square 310 x 310 logo\558 x 558.scale-100.png" />
+    <Content Include="ICNG Assets\Square 310 x 310 logo\558 x 558.scale-140.png" />
+    <Content Include="ICNG Assets\Square 310 x 310 logo\558 x 558.scale-180.png" />
+    <Content Include="ICNG Assets\Square 310 x 310 logo\558 x 558.scale-80.png" />
+    <Content Include="ICNG Assets\Square 70x70 logo\126 x 126.scale-100.png" />
+    <Content Include="ICNG Assets\Square 70x70 logo\126 x 126.scale-140.png" />
+    <Content Include="ICNG Assets\Square 70x70 logo\126 x 126.scale-180.png" />
+    <Content Include="ICNG Assets\Square 70x70 logo\126 x 126.scale-80.png" />
+    <Content Include="ICNG Assets\Square 70x70 logo\56 x 56.png" />
+    <Content Include="ICNG Assets\Square 70x70 logo\70 x 70.png" />
+    <Content Include="ICNG Assets\Square 70x70 logo\98 x 98.png" />
+    <Content Include="ICNG Assets\Store Logo\50 x 50.png" />
+    <Content Include="ICNG Assets\Store Logo\70 x 70.png" />
+    <Content Include="ICNG Assets\Store Logo\90 x 90.png" />
+    <Content Include="ICNG Assets\Wide 310x150 logo\248 x 120.png" />
+    <Content Include="ICNG Assets\Wide 310x150 logo\310 x 150.png" />
+    <Content Include="ICNG Assets\Wide 310x150 logo\434 x 210.png" />
+    <Content Include="ICNG Assets\Wide 310x150 logo\558 x 270.png" />
+    <Content Include="image\0.JPG" />
+    <Content Include="image\1.JPG" />
+    <Content Include="image\2.JPG" />
+    <Content Include="image\3.JPG" />
+    <Content Include="image\4.JPG" />
+    <Content Include="image\5.jpg" />
+    <Content Include="image\6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Aboutus.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ADGAT.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BasicPage1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BSBA.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BSCS.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BSIT.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Custom Tiles1\LiveTileType1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles1\LiveTileType2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles1\LiveTileType3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles1\LiveTileType4.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles1\LiveTileType5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles1\SmallTilePhoto.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles\SmallTile.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles\TilesWithIcons\LargeTileIcon.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles\TilesWithIcons\MediumTileIcon.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles\TilesWithIcons\WideTileIcon.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles\TilesWithImages\LargeTileImage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles\TilesWithImages\MediumTileImage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Custom Tiles\TilesWithImages\WideTileImage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Gallery.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SchoolActivities.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tiles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\Calendar.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\Contacts.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\MyFiles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <SDKReference Include="Bing.Maps.Xaml, Version=1.313.0825.0">
+      <Name>Bing Maps for C#, C++, or Visual Basic</Name>
+    </SDKReference>
+    <SDKReference Include="Microsoft.VCLibs, version=12.0">
+      <Name>Microsoft Visual C++ 2013 Runtime Package for Windows</Name>
+    </SDKReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Azure.ActiveDirectory.GraphClient">
+      <HintPath>..\..\packages\Microsoft.Azure.ActiveDirectory.GraphClient.1.0.22\lib\portable-net40+wp8+win8+MonoAndroid10+MonoTouch10+WindowsPhoneApp81\Microsoft.Azure.ActiveDirectory.GraphClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.Edm">
+      <HintPath>..\..\packages\Microsoft.Data.Edm.5.6.3\lib\portable-net45+wp8+win8+wpa\Microsoft.Data.Edm.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.OData">
+      <HintPath>..\..\packages\Microsoft.Data.OData.5.6.3\lib\portable-net45+wp8+win8+wpa\Microsoft.Data.OData.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.Services.Client">
+      <HintPath>..\..\packages\Microsoft.Data.Services.Client.5.6.3\lib\portable-net45+wp8+win8+wpa\Microsoft.Data.Services.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Clients.ActiveDirectory">
+      <HintPath>..\..\packages\Microsoft.IdentityModel.Clients.ActiveDirectory.2.14.201151115\lib\netcore45\Microsoft.IdentityModel.Clients.ActiveDirectory.winmd</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.OData.Client">
+      <HintPath>..\..\packages\Microsoft.OData.Client.6.9.0\lib\portable-net45+wp8+win8+wpa\Microsoft.OData.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.OData.Core">
+      <HintPath>..\..\packages\Microsoft.OData.Core.6.9.0\lib\portable-net40+sl5+wp8+win8+wpa\Microsoft.OData.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.OData.Edm">
+      <HintPath>..\..\packages\Microsoft.OData.Edm.6.9.0\lib\portable-net40+sl5+wp8+win8+wpa\Microsoft.OData.Edm.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office365.Discovery">
+      <HintPath>..\..\packages\Microsoft.Office365.Discovery.1.0.22\lib\portable-net40+sl5+wp8+win8+MonoAndroid10+MonoTouch10+WindowsPhoneApp81\Microsoft.Office365.Discovery.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office365.OAuth">
+      <HintPath>..\..\packages\Microsoft.Office365.OAuth.Windows.1.0.22\lib\win81\Microsoft.Office365.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office365.OAuth.WindowsStore">
+      <HintPath>..\..\packages\Microsoft.Office365.OAuth.Windows.1.0.22\lib\win81\Microsoft.Office365.OAuth.WindowsStore.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office365.OutlookServices.Portable">
+      <HintPath>..\..\packages\Microsoft.Office365.OutlookServices.1.0.22\lib\portable-net40+sl5+wp8+win8+MonoAndroid10+MonoTouch10+WindowsPhoneApp81\Microsoft.Office365.OutlookServices.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office365.SharePoint.Portable">
+      <HintPath>..\..\packages\Microsoft.Office365.SharePoint.1.0.22\lib\portable-net40+sl5+wp8+win8+MonoAndroid10+MonoTouch10+WindowsPhoneApp81\Microsoft.Office365.SharePoint.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Spatial">
+      <HintPath>..\..\packages\Microsoft.Spatial.6.9.0\lib\portable-net40+sl5+wp8+win8+wpa\Microsoft.Spatial.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAzure.Mobile">
+      <HintPath>..\..\packages\WindowsAzure.MobileServices.1.2.5\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAzure.Mobile.Ext">
+      <HintPath>..\..\packages\WindowsAzure.MobileServices.1.2.5\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\packages\Newtonsoft.Json.6.0.8\lib\netcore45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Extensions">
+      <HintPath>..\..\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives">
+      <HintPath>..\..\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Spatial">
+      <HintPath>..\..\packages\System.Spatial.5.6.3\lib\portable-net45+wp8+win8+wpa\System.Spatial.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ICNG Assets\Square 30 x 30 logo\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\BackgroundTasks\BackgroundTasks.csproj">
+      <Project>{6d2350b6-049a-45c4-8e22-933ec6f8a660}</Project>
+      <Name>BackgroundTasks</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="..\App8.Shared\App8.Shared.projitems" Label="Shared" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <Import Project="..\..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets" Condition="Exists('..\..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" />
+  <Target Name="EnsureBclBuildImported" BeforeTargets="BeforeBuild" Condition="'$(BclBuildImported)' == ''">
+    <Error Condition="!Exists('..\..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=317567." HelpKeyword="BCLBUILD2001" />
+    <Error Condition="Exists('..\..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="The build restored NuGet packages. Build the project again to include these packages in the build. For more information, see http://go.microsoft.com/fwlink/?LinkID=317568." HelpKeyword="BCLBUILD2002" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

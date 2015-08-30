@@ -1,0 +1,2 @@
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\App8\App8.Windows\App8.Windows.csproj;x86
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\BackgroundTasks.csproj;x86

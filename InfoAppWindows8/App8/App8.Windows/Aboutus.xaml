@@ -1,0 +1,247 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="App8.Aboutus"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App8"
+    xmlns:common="using:App8.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    >
+
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName"></x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/ICNG App - ABOUT US (FINAL).png"/>
+        </Grid.Background>
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Button x:Name="backButton" Margin="85,59,39,0" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        VerticalAlignment="Top"
+                        AutomationProperties.Name="Back"
+                        AutomationProperties.AutomationId="BackButton"
+                        AutomationProperties.ItemType="Navigation Button" Foreground="Black"/>
+        <TextBlock x:Name="pageTitle" Text="{StaticResource AppName}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+                        IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="160,0,0,40"/>
+
+        <!-- Back button and page title -->
+
+        <ScrollViewer Grid.Row="1" 
+                      HorizontalScrollMode="Enabled" 
+                      HorizontalScrollBarVisibility="Auto"
+                      VerticalScrollMode="Disabled"
+                      VerticalScrollBarVisibility="Hidden"
+                      HorizontalContentAlignment="Stretch" 
+                      ZoomMode="Disabled" >
+            <StackPanel Width="3900" Grid.Row="1" Margin="100,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="550" />
+                        <ColumnDefinition Width="50" />
+                        <ColumnDefinition Width="550" />
+                        <ColumnDefinition Width="50" />
+                        <ColumnDefinition Width="550" />
+                        <ColumnDefinition Width="50" />
+                        <ColumnDefinition Width="550" />
+                        <ColumnDefinition Width="50" />
+                        <ColumnDefinition Width="550" />
+                        <ColumnDefinition Width="50" />
+                        <ColumnDefinition Width="550" />
+                    </Grid.ColumnDefinitions>
+                    
+                    <!--
+                    <StackPanel Grid.Column="0">
+
+                        <RichTextBlock Grid.Column="0" FontSize="17" Margin="0,20,0,0" TextAlignment="Justify">
+                            <Paragraph FontSize="20">EDUCATION PROGRAM></Paragraph>
+                            <Paragraph></Paragraph>
+                            <Paragraph>Established in 1983, Informatics is one of the largest education and training service providers in Asia. Informatics offers academic 
+                                programmes from the foundation programme to undergraduate and postgraduate degree completions in the area of information Technology and Business.
+                                At Informatics, we offer
+                            </Paragraph>
+                            <Paragraph></Paragraph>
+                            <Paragraph>* Quality education programmes.</Paragraph>
+                            <Paragraph>* Complete profile and progression path for students</Paragraph>
+                            <Paragraph>* Different learning modes to accommodate to individuals needs and lifestyle: 
+                                traditional classroom learning, and blended learning (e-Learning with face-to-face tutorials)</Paragraph>
+                            <Paragraph>* Conducive learning environment and campus learning</Paragraph>
+                            <Paragraph>* Software and educational materials provided by leading software providers such as Microsoft, Oracle and Adobe.</Paragraph>
+                            <Paragraph>* Career Guidance Services for our students</Paragraph>
+                            <Paragraph></Paragraph>
+                            <Paragraph>Informatics offers courses that fit to your lifestyle. Whether you are right-brained or left-brained or in simple words –
+                                an artist or a mathematician, you can choose in any of our courses which will lead to a rewarding career.
+                                Our curricula are based from the growing demands of the IT industry. All major subjects are hands-on and are 
+                                mostly project-based harnessing the potential and skills of each of our student and equipping them with the up-to-date skills 
+                                they need prior to employment.
+                            </Paragraph>
+                        </RichTextBlock >
+
+
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="2">
+                        <RichTextBlock FontSize="17" Margin="0,20,0,0" TextAlignment="Justify">
+                            <Paragraph>Informatics offers a Ladderized program to our students. Our curriculum is based on the British system of education which allows each students to work after each year level. 
+                                In the traditional Philippine schools, a student can only work as a professional after finishing his degree, otherwise he/she will be called an undergraduate.</Paragraph>
+                            <Paragraph></Paragraph>
+                            <Paragraph FontSize="20">INFORMATICS GROUP</Paragraph>
+                            <Paragraph>The Informatics Group, listed on the mainboard of the Stock Exchange of Singapore was established in 1983, and is a multinational corporation providing lifelong learning 
+                                services in information technology and business management. Informatics presently has a global network spanning more than 50 countries, offering programmes from O/A Levels (for international students) 
+                                to undergraduate and post-graduate degree completions. The company won may awards including the Singapore Brand Awards 2002 and 2003, the Singapore Quality Class for Private Education Organizations (SQC for PEO) as well as the People Developer Standards Award. It was also named by USA Forbes Magazines as one of the 100 Best Managed Small Companies outside of USA.</Paragraph>
+                            <Paragraph></Paragraph>
+
+                            <Paragraph FontSize="20">INFORMATICS PHILIPPINES</Paragraph>
+                            <Paragraph>Informatics Philippines, established in 1994, is a multinational corporation committed to provide quality training and education in Information and
+                            Communications Technology to Filipinos. Informatics has more than 30 centers operating
+                            nationwide providing lifelong learning courses on Corporate Productivity, Business Solutions
+                            </Paragraph>
+                        </RichTextBlock>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="4">
+                        <RichTextBlock TextAlignment="Justify" FontSize="17" Margin="0,20,0,0">
+                            <Paragraph>and Higher Education from undergraduate to postgraduate degree completions. The Company has won many awards including the 12th Asia-Pacific Excellence Awards (2005), the National Consumers Council (2001, 2002 and 2004), the National Consumers Quality Awards as Outstanding Computer School. 
+                                The Company was also elevated to the Hall of Fame award for winning the International Master Franchise of the Year Award (Service Category) for two consecutive years (2001-2002),
+                            </Paragraph>
+                            <Paragraph></Paragraph>
+                            <Paragraph>
+                                by the Department of Trade and Industry and by the Philippine Franchise Association. Informatics was also awarded by
+                                the Parangal ng Bayan Foundation with the National Consumers Excellence Award for Outstanding IT School in view of its significant contribution to the well-being of the Filipino Consumers. Globally, Informatics has won many awards including the Singapore Brand Awards 2002 and 2003, the Singapore
+                                Quality Class for Private Education Organizations (SQC for PEO) as well as People Developer Standards Award. Informatics Philippines is part of a network of training and education companies that operates in over 50 countries spanning Asia, Europe, Africa and South America. Informatics Group is 
+                                listed on the mainboard of the Stock Exchange of Singapore.
+                                <LineBreak></LineBreak>
+                            </Paragraph>
+
+
+                            <Paragraph FontSize="20">EDUCATION POLICY</Paragraph>
+                            <Paragraph>The heart of Informatics’ philosophy is to consistently provide students with
+                                globally-recognized and premium quality training services, thereby ensuring total 
+                                satisfaction.</Paragraph>
+                        </RichTextBlock>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="6">
+                        <RichTextBlock FontSize="17" Margin="0,20,0,0" TextAlignment="Justify">
+                            <Paragraph FontSize="20">EDUCATION POLICY DETAIL</Paragraph>
+                            <Paragraph>
+
+                                <LineBreak></LineBreak>
+                                Informatics is committed to making education available to those who need it 
+                                so that they can contribute to the development of their country.
+
+                                <LineBreak></LineBreak>
+                                <LineBreak></LineBreak>
+                                Informatics has the responsibility to identify and develop leaders among its students.
+                                <LineBreak></LineBreak>
+                                <LineBreak></LineBreak>
+                                Informatics is consistently upgrading its resources, especially in the area of human resources 
+                                where the Informatics staff are given recognition for their invaluable contribution.
+                                <LineBreak></LineBreak>
+                                <LineBreak></LineBreak>
+                            </Paragraph>
+
+                            <Paragraph FontSize="20">QUALITY POLICY</Paragraph>
+                            <Paragraph>
+                                Informatics’ commitment to quality is carried through by Informatics Quality Management System, 
+                                which encompasses all aspects and levels in the organization from course design to program scheduling, 
+                                student assessment/ examination to counseling services and staff training.
+                                <LineBreak></LineBreak>
+                                <LineBreak></LineBreak>
+                                This commitment to excel beyond customers’ expectations by providing quality services and products has enabled Informatics to receive international recognition through the ISO (International Standard Organization) 9001 certification for design capability. The centers in the Informatics network are ISO 9002 certified for program delivery and management.
+                            </Paragraph>
+
+                        </RichTextBlock>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="8" Margin="0,20,0,0">
+                        <RichTextBlock FontSize="17" TextAlignment="Justify">
+                            <Paragraph FontSize="20">VISION</Paragraph>
+                            <Paragraph>
+                                To be thought leader and quality education provider with a global presence.
+                                <LineBreak></LineBreak>
+                            </Paragraph>
+
+                            <Paragraph FontSize="20">MISSION</Paragraph>
+                            <Paragraph>
+                                To act as a platform to educate, train, and share latest in information, knowledge
+                                and skills with the global community.
+                                <LineBreak></LineBreak>
+
+                            </Paragraph>
+
+                            <Paragraph FontSize="24">CORE VALUES</Paragraph>
+                            <Paragraph FontSize="19">STUDENT CENTRICITY</Paragraph>
+                            <Paragraph>We focus on understanding our student and putting their interest first.
+                                <LineBreak></LineBreak>
+                            </Paragraph>
+                            <Paragraph FontSize="19">PEOPLE</Paragraph>
+                            <Paragraph>
+                                We empower our people to be professionals demostrating the highest standards
+                                of ethics and integrity.
+                                <LineBreak></LineBreak>
+                            </Paragraph>
+
+
+
+
+                            <Paragraph FontSize="19">INNOVATION</Paragraph>
+                            <Paragraph>
+                                We drive for innovation and creativity in our programmes services and everything 
+                                we do.
+                            </Paragraph>
+
+                        </RichTextBlock>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="10">
+                        <RichTextBlock FontSize="17" Margin="0,20,0,0" TextAlignment="Justify">
+                            <Paragraph FontSize="19">SOCIAL  RESPONSIBILITY</Paragraph>
+                            <Paragraph>We strive to be responsible corporate citizens in every society we serve.
+                                <LineBreak></LineBreak>
+                            </Paragraph>
+
+                            <Paragraph FontSize="19">RESULTS</Paragraph>
+                            <Paragraph>We endeavour to provide optimum and sustainable returns to our stakeholders
+                                <LineBreak></LineBreak>
+                            </Paragraph>
+
+                            <Paragraph>QUALITY</Paragraph>
+                            <Paragraph>
+                                We focus on acheiving and enchancing quality results in our programmes, services
+                                and in all that we do and deliver.
+                            </Paragraph>
+                        </RichTextBlock>
+                    </StackPanel>
+                    -->
+                  
+
+                </Grid>
+            </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+
+
+
+</Page>

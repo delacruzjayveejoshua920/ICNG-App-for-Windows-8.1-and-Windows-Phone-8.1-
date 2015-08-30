@@ -1,0 +1,71 @@
+﻿<Page
+    x:Class="App8.ADGAT"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App8"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    >
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="10,0,10,0">
+            <TextBlock Text="MY APPLICATION" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="ADGAT" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+            <Image Grid.Column="0" Source="Assets/ADGAT (Better).jpg" Width="390" HorizontalAlignment="Left"></Image>
+            <RichTextBlock FontSize="17" Margin="0,20,0,0" TextAlignment="Justify">
+                <Paragraph>Advance Diploma</Paragraph>
+                <Paragraph>Duration:  2 years</Paragraph>
+                <Paragraph>Recognized by the Commission on Higher Education (CHED)</Paragraph>
+                <Paragraph></Paragraph>
+                <Paragraph >
+                    The Program is designed to introduce learners to game programming and game art design in 2D and 3D.
+                                The course aims to prepare a qualified and skilled workforce to meet the challenges of the fast-growing
+                                gaming and animation industry.
+                </Paragraph>
+
+                <Paragraph></Paragraph>
+                <Paragraph>
+                    Learners will have the opportunity to work in the industry as game as game designers or game developers.
+                                Entry-level video games designers make between $50,000 and $80,000 anually. Game developers, on the other
+                                hand, can earn from PHP 15K to PHP 30K per month.
+                </Paragraph>
+
+                <Paragraph FontSize="12">
+                    <LineBreak>
+                    </LineBreak>
+                    Source: http://electronics.howstuffworks.com/video-game-designer3.htm
+                    <LineBreak></LineBreak>
+                    http://www.payscale.com/research/PH/Industry=Entertainment_or_Game_Software/Salary
+                </Paragraph>
+
+                <Paragraph FontSize="20">
+                    <LineBreak></LineBreak> Carreer Path</Paragraph>
+                <Paragraph>A graduate of this course can have a career as:
+                    <LineBreak></LineBreak>
+                </Paragraph>
+                <Paragraph>* Game Developer</Paragraph>
+                <Paragraph>* Game Designer</Paragraph>
+            </RichTextBlock >
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+
+        </Grid>
+    </Grid>
+</Page>

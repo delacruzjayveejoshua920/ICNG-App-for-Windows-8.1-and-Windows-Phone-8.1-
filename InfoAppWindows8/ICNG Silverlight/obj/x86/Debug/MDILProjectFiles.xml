@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>ICNG Silverlight.dll</File>
+    <File>Assets\10841566_1011401448876280_1088504470_n.jpg</File>
+    <File>Assets\10850512_1011401442209614_1199723777_n.jpg</File>
+    <File>Assets\10859737_1011401482209610_671366089_n.jpg</File>
+    <File>Assets\1779976_673416822772065_2372477507244453392_n.png</File>
+    <File>Assets\20110512184151245_1235455782informatics.jpg</File>
+    <File>Assets\ADGAT (Better).jpg</File>
+    <File>Assets\AlignmentGrid.png</File>
+    <File>Assets\background1.jpg</File>
+    <File>Assets\BadgeLogo.png</File>
+    <File>Assets\BadgeLogo.scale-100.png</File>
+    <File>Assets\BS-Information-Technology.jpg</File>
+    <File>Assets\BSBA (Better).jpg</File>
+    <File>Assets\BSCS (Better).jpg</File>
+    <File>Assets\facebookfeed2.png</File>
+    <File>Assets\facebookfeed3.png</File>
+    <File>Assets\facebooktiles1 (with icon) - final.png</File>
+    <File>Assets\facebooktiles1 - Copy.jpg</File>
+    <File>Assets\facebooktiles1.jpg</File>
+    <File>Assets\facebooktiles2 - Copy.jpg</File>
+    <File>Assets\facebooktiles2.jpg</File>
+    <File>Assets\facebooktiles3 - Copy.jpg</File>
+    <File>Assets\facebooktiles3.jpg</File>
+    <File>Assets\FB_ICON.png</File>
+    <File>Assets\GALLERY - FACILITIES.jpg</File>
+    <File>Assets\inflogo.png</File>
+    <File>Assets\inflogo2.png</File>
+    <File>Assets\Informatics Campus BLUR.jpg</File>
+    <File>Assets\INFO_CHAT (Name).png</File>
+    <File>Assets\INFO_CHAT_PT2.png</File>
+    <File>Assets\instagramtile1.jpg</File>
+    <File>Assets\instagramtile2.jpg</File>
+    <File>Assets\instagramtile3.jpg</File>
+    <File>Assets\LOGO - INFORMATICS NG.png</File>
+    <File>Assets\Logo.png</File>
+    <File>Assets\Logo.scale-100.png</File>
+    <File>Assets\Logo.scale-240.png</File>
+    <File>Assets\logo11.png</File>
+    <File>Assets\logo12.png</File>
+    <File>Assets\Many Faces of Success (Part 3) (1).mp4</File>
+    <File>Assets\SmallLogo.scale-100.png</File>
+    <File>Assets\SmallLogo.scale-240.png</File>
+    <File>Assets\SplashScreen.png</File>
+    <File>Assets\SplashScreen.scale-100.png</File>
+    <File>Assets\SplashScreen.scale-180.png</File>
+    <File>Assets\SplashScreen.scale-240.png</File>
+    <File>Assets\Square71x71Logo.scale-240.png</File>
+    <File>Assets\SquareTile150x150.png</File>
+    <File>Assets\SquareTile71x71.png</File>
+    <File>Assets\StoreLogo.png</File>
+    <File>Assets\StoreLogo.scale-100.png</File>
+    <File>Assets\StoreLogo.scale-240.png</File>
+    <File>Assets\trial for tiles.png</File>
+    <File>Assets\twitter.png</File>
+    <File>Assets\twitterfeed1.png</File>
+    <File>Assets\TWITTERRR_ICON.png</File>
+    <File>Assets\twittertiles1.jpg</File>
+    <File>Assets\twittertiles2.jpg</File>
+    <File>Assets\twittertiles3.jpg</File>
+    <File>Assets\Wide310x150Logo.scale-80.png</File>
+    <File>Assets\WideLogo.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Assets\Tiles\IconicTileMediumLarge.png</File>
+    <File>Assets\Tiles\IconicTileSmall.png</File>
+    <File>Assets\WideLogo.scale-240.png</File>
+    <File>Assets\_MG_8435.JPG</File>
+    <File>Assets\_MG_8481.JPG</File>
+    <File>AppManifest.xaml</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>

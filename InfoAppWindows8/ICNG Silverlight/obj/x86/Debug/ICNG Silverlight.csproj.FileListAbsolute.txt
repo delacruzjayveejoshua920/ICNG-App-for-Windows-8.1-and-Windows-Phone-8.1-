@@ -1,0 +1,35 @@
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\ICNG Silverlight.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\ICNG Silverlight.pdb
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\resources.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\AppxManifest.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\ICNG Silverlight.build.appxrecipe
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\AppManifest.xaml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\Bin\x86\Debug\ICNG_Silverlight_Debug_x86.xap
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\App.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\MainPage.g.cs
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\ICNG Silverlight.g.resources
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\ICNG_Silverlight.Resources.AppResources.resources
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\ICNG Silverlight.csproj.GenerateResource.Cache
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\ICNG Silverlight.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\ICNG Silverlight.pdb
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\priconfig.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\layout.resfiles
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\resources.resfiles
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\pri.resfiles
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\qualifiers.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\MDILProjectFiles.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\ICNG Silverlight\obj\x86\Debug\XapCacheFile.xml

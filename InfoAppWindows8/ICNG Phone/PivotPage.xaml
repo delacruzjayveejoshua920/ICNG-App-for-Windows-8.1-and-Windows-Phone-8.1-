@@ -1,0 +1,587 @@
+﻿<Page
+    x:Class="ICNG_Phone.PivotPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ICNG_Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:data="using:ICNG_Phone.Data"
+    mc:Ignorable="d"
+    xmlns:tiles="using:CustomLiveTiles"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    Background="{ThemeResource AppBarToggleButtonCheckedBorderThemeBrush}">
+    <Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <NavigationThemeTransition.DefaultNavigationTransitionInfo>
+                    <CommonNavigationTransitionInfo IsStaggeringEnabled="True"/>
+                </NavigationThemeTransition.DefaultNavigationTransitionInfo>
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>
+
+
+    <Grid>
+        <TextBlock >sdsdsssdssss</TextBlock>
+        <Pivot Title="ICNG Official App" x:Name="pivot"  Foreground="White"  >
+            <Pivot.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/ICNG App bg 720x1280.png"/>
+            </Pivot.Background>
+
+
+            <!--Pivot item one-->
+
+
+            <PivotItem
+                Margin="19,14.5,0,0"
+                Header="AVP"
+               Foreground="Green"
+                >
+                <!--Double line list with text wrapping-->
+
+                <MediaElement Source="Assets/Many Faces of Success (Part 3) (1).mp4"
+                                      x:Name="media" 
+                                      Width="340" 
+                                      Height="250" 
+                                      AreTransportControlsEnabled="True" 
+                                      Grid.Column="0"
+                               VerticalAlignment="Center"
+                                      Grid.Row="1" 
+                                      HorizontalAlignment="Center" 
+                                     
+                                      />
+
+            </PivotItem>
+
+            <!--Pivot item two-->
+
+
+            <PivotItem
+                
+                Margin="19,14.5,0,0"
+                Header="NewsFeed"
+                >
+                <ScrollViewer>
+                    <!--Double line list no text wrapping-->
+                    <StackPanel>
+                        <Button Tapped="RefreshFeeds">Refresh Feeds</Button>
+                        <TextBlock Text="facebook" FontSize="35"/>
+                        <Border Background="#3b5998"
+                                HorizontalAlignment="Left"
+                                Width="370">
+                            <StackPanel>
+                                <TextBlock Name="newsfeed1" 
+                                   Text=""
+                                   FontSize="17"
+                                   TextAlignment="Justify"
+                                   HorizontalAlignment="Left"
+                                   TextWrapping="Wrap"/>
+                                <TextBlock Name="newsfeeddate1" 
+                                       Text=""
+                                       FontSize="12"
+                                       TextAlignment="Justify"
+                                       HorizontalAlignment="Left"
+                                       TextWrapping="Wrap"></TextBlock>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Background="#3b5998"
+                                HorizontalAlignment="Left"
+                                Width="370" Margin="0,10,10,0">
+                            <StackPanel>
+                                <TextBlock Name="newsfeed2" 
+                                   Text=""
+                                   FontSize="17"
+                                   TextAlignment="Justify"
+                                   HorizontalAlignment="Left"
+                                   TextWrapping="Wrap"/>
+                                <TextBlock Name="newsfeeddate2" 
+                                       Text=""
+                                       FontSize="12"
+                                       TextAlignment="Justify"
+                                       HorizontalAlignment="Left"
+                                       TextWrapping="Wrap"></TextBlock>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Background="#3b5998"
+                                HorizontalAlignment="Left"
+                                Width="370"
+                                Margin="0,10,10,0">
+                            <StackPanel>
+                                <TextBlock Name="newsfeed3" 
+                                   Text=""
+                                   FontSize="17"
+                                   TextAlignment="Justify"
+                                   HorizontalAlignment="Left"
+                                   TextWrapping="Wrap"/>
+                                <TextBlock Name="newsfeeddate3" 
+                                       Text=""
+                                       FontSize="12"
+                                       TextAlignment="Justify"
+                                       HorizontalAlignment="Left"
+                                       TextWrapping="Wrap"></TextBlock>
+                            </StackPanel>
+                        </Border>
+
+                        <TextBlock Text="instagram" FontSize="35"/>
+                        <Border HorizontalAlignment="Left"
+                                Width="370">
+                            <StackPanel>
+                                <Image Name="instafeed1" Source="" Width="370" Height="370" HorizontalAlignment="Left"></Image>
+                                <Image Name="instafeed2" Source="" Width="370" Height="370" HorizontalAlignment="Left" Margin="0,10,0,0"></Image>
+                                <Image Name="instafeed3" Source="" Width="370" Height="370" HorizontalAlignment="Left" Margin="0,10,0,0"></Image>
+                            </StackPanel>
+                        </Border>
+
+
+                        <TextBlock Text="twitter" FontSize="35"/>
+                        <Border Background="#4099FF" Width="370" HorizontalAlignment="Left">
+                            <StackPanel>
+                                <TextBlock 
+                                Name="twitterfeed1" 
+                                Text="" 
+                                FontSize="17"
+                                Width="370" 
+                                TextWrapping="Wrap"
+                                HorizontalAlignment="Left"
+                                TextAlignment="Justify"
+                                >
+                                </TextBlock>
+
+                                <TextBlock 
+                                Name="twitterfeeddate1" 
+                                Text="" 
+                                FontSize="12"
+                                Width="370" 
+                                TextWrapping="Wrap"
+                                HorizontalAlignment="Left"
+                                TextAlignment="Justify">
+                                </TextBlock>
+
+                            </StackPanel>
+                        </Border>
+
+                        <Border Background="#4099FF" Width="370" HorizontalAlignment="Left"
+                                Margin="0,10,10,0">
+                            <StackPanel>
+                                <TextBlock 
+                                Name="twitterfeed2" 
+                                Text="" 
+                                FontSize="17"
+                                Width="370" 
+                                TextWrapping="Wrap"
+                                HorizontalAlignment="Left"
+                                TextAlignment="Justify">
+                                </TextBlock>
+
+                                <TextBlock 
+                                Name="twitterfeeddate2" 
+                                Text="" 
+                                FontSize="12"
+                                Width="370" 
+                                TextWrapping="Wrap"
+                                HorizontalAlignment="Left"
+                                TextAlignment="Justify">
+                                </TextBlock>
+
+                            </StackPanel>
+                        </Border>
+
+                        <Border Background="#4099FF" Width="370" HorizontalAlignment="Left"
+                                Margin="0,10,10,0">
+                            <StackPanel>
+                                <TextBlock 
+                                Name="twitterfeed3" 
+                                Text="" 
+                                FontSize="17"
+                                Width="370" 
+                                TextWrapping="Wrap"
+                                HorizontalAlignment="Left"
+                                TextAlignment="Justify">
+                                </TextBlock>
+
+                                <TextBlock 
+                                Name="twitterfeeddate3" 
+                                Text="" 
+                                FontSize="12"
+                                Width="370" 
+                                TextWrapping="Wrap"
+                                HorizontalAlignment="Left"
+                                TextAlignment="Justify">
+                                </TextBlock>
+                            </StackPanel>
+                        </Border>
+
+
+                    </StackPanel>
+                </ScrollViewer>
+            </PivotItem>
+
+
+            <PivotItem
+                x:Uid="PivotItem3"
+                Margin="19,15,10,-0.5"
+                Header="AboutUs">
+                <!--Double line list no text wrapping-->
+
+
+                <ScrollViewer>
+                    <Border Background="White" Opacity="0.8">
+                    <RichTextBlock Foreground="Black" Grid.Column="0" FontSize="14" Margin="0,20,0,0" TextAlignment="Justify">
+                        <Paragraph>
+                            Established in 1983, Informatics is one of the largest education and training service providers in Asia. Informatics offers academic 
+                                programmes from the foundation programme to undergraduate and postgraduate degree completions in the area of information Technology and Business.
+                                At Informatics, we offer and Higher Education from undergraduate to postgraduate degree completions. The Company has won many awards including the 12th Asia-Pacific Excellence Awards (2005), the National Consumers Council (2001, 2002 and 2004), the National Consumers Quality Awards as Outstanding Computer School. 
+                                The Company was also elevated to the Hall of Fame award for winning the International Master Franchise of the Year Award (Service Category) for two consecutive years (2001-2002),
+                        </Paragraph>
+
+                        
+
+                        
+
+                        <Paragraph>
+                        </Paragraph>
+                        <Paragraph></Paragraph>
+                        <Paragraph>
+                            by the Department of Trade and Industry and by the Philippine Franchise Association. Informatics was also awarded by
+                                the Parangal ng Bayan Foundation with the National Consumers Excellence Award for Outstanding IT School in view of its significant contribution to the well-being of the Filipino Consumers. Globally, Informatics has won many awards including the Singapore Brand Awards 2002 and 2003, the Singapore
+                                Quality Class for Private Education Organizations (SQC for PEO) as well as People Developer Standards Award. Informatics Philippines is part of a network of training and education companies that operates in over 50 countries spanning Asia, Europe, Africa and South America. Informatics Group is 
+                                listed on the mainboard of the Stock Exchange of Singapore.
+                            <LineBreak></LineBreak>
+                        </Paragraph>
+
+
+                     
+
+                        
+                    </RichTextBlock>
+                    </Border>
+                </ScrollViewer>
+            </PivotItem>
+
+            <PivotItem Header="Course">
+                <Pivot>
+
+                    <PivotItem Header="BSIT">
+                        <ScrollViewer>
+                            <Border Background="White" Opacity="0.9">
+                            <RichTextBlock Opacity="1" Foreground="Black" FontSize="17" Margin="0,20,0,0" TextAlignment="Justify" Width="319">
+                                <Paragraph>Bachelor Degree Program</Paragraph>
+                                <Paragraph>Duration:  3 years</Paragraph>
+                                <Paragraph>Recognized by the Commission on Higher Education (CHED)</Paragraph>
+                                <Paragraph></Paragraph>
+                                <Paragraph >
+                                    The study of utilization of computers and computer software to plan, install, customize, 
+                                operate, manage, administer and maintain information technology infrastructure
+                                </Paragraph>
+
+                                <Paragraph></Paragraph>
+                                <Paragraph>The BSIT program prepares students to be IT professionals, be well versed on application installation, operation, development,
+                                maintenance and administration, and familiar with hardware installation, operation, and maintenance.  The Program provides a solid foundation
+                                in IT, with background in both software and hardware management, and additional emphasis on strong database management
+                                system.
+                                </Paragraph>
+
+                                <Paragraph FontSize="20">Carreer Path</Paragraph>
+                                <Paragraph>A graduate of this course can have a career as:
+                                    <LineBreak></LineBreak>
+                                </Paragraph>
+                                <Paragraph>* Application Developer</Paragraph>
+                                <Paragraph>* Database Admistrator</Paragraph>
+                                <Paragraph>* Entrepreneur in IT Industry</Paragraph>
+                                <Paragraph>* Information Security Adminstrator</Paragraph>
+                                <Paragraph>* Network Adminstrator</Paragraph>
+                                <Paragraph>* Network Engineer</Paragraph>
+                                <Paragraph>* System Analyst</Paragraph>
+                                <Paragraph>* Technical Support Analyst</Paragraph>
+                                <Paragraph>* Test Engineer</Paragraph>
+                                <Paragraph>* Web Admistrator / Web Master</Paragraph>
+                                <Paragraph>* Web Developer</Paragraph>
+
+                            </RichTextBlock >
+                            </Border>
+                        </ScrollViewer>
+                    </PivotItem>
+
+                    <PivotItem Header="BSCS">
+                        <ScrollViewer>
+                            <Border Background="White" Opacity="0.9">
+                                <RichTextBlock Grid.Column="0" Foreground="Black" FontSize="17" Margin="0,20,0,0" TextAlignment="Justify">
+                                    <Paragraph>Bachelor Degree Program</Paragraph>
+                                    <Paragraph>Duration:  3 years</Paragraph>
+                                    <Paragraph>Recognized by the Commission on Higher Education (CHED)</Paragraph>
+                                    <Paragraph></Paragraph>
+                                    <Paragraph >
+                                        Emphasizes on the development of the skills necessary to specify, design, develop, and manage computer-based systems solutions 
+                                and provided systems level support and development.
+                                    </Paragraph>
+
+                                    <Paragraph></Paragraph>
+                                    <Paragraph>
+                                        The BSCS program prepares students to be IT professionals and researchers, and to be proficient in designing and developing computing solutions.
+                                    </Paragraph>
+                                    <Paragraph></Paragraph>
+                                    <Paragraph FontSize="20">Carreer Path</Paragraph>
+                                    <Paragraph>A graduate of this course can have a career as:
+                                        <LineBreak></LineBreak>
+                                    </Paragraph>
+                                    <Paragraph>* Application Developer</Paragraph>
+                                    <Paragraph>* Database Programmer</Paragraph>
+                                    <Paragraph>* Database Designer</Paragraph>
+                                    <Paragraph>* Information Security Engineer</Paragraph>
+                                    <Paragraph>* Quality Assurance</Paragraph>
+                                    <Paragraph>* Researcher</Paragraph>
+                                    <Paragraph>* System Analyst</Paragraph>
+                                    <Paragraph>* System Developer</Paragraph>
+                                </RichTextBlock>
+
+                            </Border>
+                        </ScrollViewer>
+                    </PivotItem>
+
+                    <PivotItem Header="BSBA">
+                        <Border Background="White" Opacity="0.9">
+                            <RichTextBlock Grid.Column="0" Foreground="Black" FontSize="17" Margin="0,20,0,0" TextAlignment="Justify">
+                                <Paragraph>Bachelor Degree Program</Paragraph>
+                                <Paragraph>Duration:  3 years</Paragraph>
+                                <Paragraph>Recognized by the Commission on Higher Education (CHED)</Paragraph>
+                                <Paragraph></Paragraph>
+                                <Paragraph >
+                                    The Business Administration program covers the integrated approach and interrelationship among the functional areas of business 
+                                as well as sensitivity to the economic, social, technological, legal and international environment in which business must operate. 
+                                The objective of the program is not simply to impart basic business knowledge, but to instill and nurture important qualities and
+                                skills in our students that are essential for future business leadership and organizational success.
+                                </Paragraph>
+
+                                <Paragraph></Paragraph>
+                                <Paragraph>
+                                    The Marketing Management program prepares the students to be responsive to the total environment by providing technical skills and competencies in the areas of marketing. Theory is blended with practicum activities to give the students a broad and enriched base for career in marketing.
+                                </Paragraph>
+
+                                <Paragraph FontSize="20">Carreer Path</Paragraph>
+                                <Paragraph>A graduate of this course can have a career as:
+                                    <LineBreak></LineBreak>
+                                </Paragraph>
+                                <Paragraph>* Management Trainee in Marketing</Paragraph>
+                                <Paragraph>* Marketing Assistant/Assistant Manager</Paragraph>
+                                <Paragraph>* Product or Brand Assistant/Assistant Manager</Paragraph>
+                                <Paragraph>* Entrepreneur</Paragraph>
+                                <Paragraph>* Account Executive</Paragraph>
+                                <Paragraph>* Sales Assistant/Staff</Paragraph>
+                                <Paragraph>* Merchandiser</Paragraph>
+                                <Paragraph>* PR/Advertising Assistant</Paragraph>
+                                <Paragraph>* Customer Service Agent/Representative</Paragraph>
+                                <Paragraph>* Receptionist</Paragraph>
+                                <Paragraph>* Junior Sales Trainer</Paragraph>
+                                <Paragraph>* Receptionist</Paragraph>
+                                <Paragraph>* Order/Billing Assistant</Paragraph>
+
+
+                            </RichTextBlock >
+                        </Border>
+                    </PivotItem>
+
+                    <PivotItem Header="ADGAT">
+                        <Border Background="White" Opacity="0.9">
+                            <RichTextBlock Grid.Column="0" Foreground="Black"  FontSize="17" Margin="0,20,0,0" TextAlignment="Justify">
+                                <Paragraph>Advance Diploma</Paragraph>
+                                <Paragraph>Duration:  2 years</Paragraph>
+                                <Paragraph>Recognized by the Commission on Higher Education (CHED)</Paragraph>
+                                <Paragraph></Paragraph>
+                                <Paragraph >
+                                    The Program is designed to introduce learners to game programming and game art design in 2D and 3D.
+                                The course aims to prepare a qualified and skilled workforce to meet the challenges of the fast-growing
+                                gaming and animation industry.
+                                </Paragraph>
+
+                                <Paragraph></Paragraph>
+                                <Paragraph>
+                                    Learners will have the opportunity to work in the industry as game as game designers or game developers.
+                                Entry-level video games designers make between $50,000 and $80,000 anually. Game developers, on the other
+                                hand, can earn from PHP 15K to PHP 30K per month.
+                                </Paragraph>
+
+                                <Paragraph FontSize="12">
+                                    <LineBreak>
+                                    </LineBreak>
+                                    Source: http://electronics.howstuffworks.com/video-game-designer3.htm
+                                    <LineBreak></LineBreak>
+                                    http://www.payscale.com/research/PH/Industry=Entertainment_or_Game_Software/Salary
+                                </Paragraph>
+
+                                <Paragraph FontSize="20">Carreer Path</Paragraph>
+                                <Paragraph>A graduate of this course can have a career as:
+                                    <LineBreak></LineBreak>
+                                </Paragraph>
+                                <Paragraph>* Game Developer</Paragraph>
+                                <Paragraph>* Game Designer</Paragraph>
+
+                            </RichTextBlock >
+                        </Border>
+                    </PivotItem>
+                </Pivot>
+            </PivotItem>
+
+            <PivotItem Header="Gallery">
+                <Pivot>
+                    <PivotItem Header="library">
+                        <Image Source="image/0.JPG"/>
+                    </PivotItem>
+
+                    <PivotItem Header="ComputerLab">
+                        <Image Source="image/1.JPG"/>
+                    </PivotItem>
+
+                    <PivotItem Header="Entrance">
+                        <Image Source="image/2.JPG"/>
+                    </PivotItem>
+
+                    <PivotItem Header="Classroom">
+                        <Image Source="image/3.JPG"/>
+                    </PivotItem>
+
+                    <PivotItem Header="Classroom2">
+                        <Image Source="image/4.JPG"/>
+                    </PivotItem>
+
+                    <PivotItem Header="ComputerLab2">
+                        <Image Source="image/5.JPG"/>
+                    </PivotItem>
+
+                </Pivot>
+
+            </PivotItem>
+
+
+
+
+            <PivotItem Header="VisitUs">
+
+
+                <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0" Height="300">
+                    <Maps:MapControl x:Name="myMap" 
+                                     MapServiceToken="AgRkXq00rqnXJteHZkKi27W2iG8TRefPR1iMRfmmiwXUtsj-Jb4Fc2h8TpqkAKRZ" 
+                                     ZoomLevel="18" Margin="0,-101,0,-59"  
+                                     />
+
+
+                </Grid>
+            </PivotItem>
+
+            <PivotItem Header="InfoChat" >
+                <Grid>
+                <Grid x:Name="GridRegister" Background="#0f85d5"  Height="auto" Visibility="Visible">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="25"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Image Source="Assets/INFO_CHAT (Name).png" Width="auto" VerticalAlignment="Top" 
+                               Grid.ColumnSpan="2" Height="443" Margin="0,0,-0.333,0"/>
+                    <TextBox BorderBrush="Gray" 
+                        	Background="White"
+                            Grid.ColumnSpan="2"
+                        	x:Name="TextBoxName"
+                        	Margin="16,0,0,80" 
+                        	VerticalAlignment="Bottom" 
+                        	HorizontalAlignment="Left" 
+                        	Foreground="Black" 
+                        	Width="328" 
+                        	Text="(not connected, Please Sign In)"
+                        	IsEnabled="False"
+                        	PlaceholderText="Enter Your Name" Height="43"/>
+                    
+                    <Button x:Name="loginbutton" 
+                                    Foreground="White" Background="#0f85d5"
+                    			    Content="Sign In" 
+                    			    VerticalAlignment="Bottom" 
+                    			    HorizontalAlignment="Center" 
+                    			    Height="50"
+                    			    
+                                    Tapped="loginbutton_Tapped" Grid.Row="0" Margin="54,0,17.833,12"
+                    			 />
+                    <Button 
+                        Grid.Row="0" 
+                        VerticalAlignment="Bottom" 
+                        x:Name="ButtonLetsGo"
+                        Content="Let's Go!" Click="ButtonLetsGo_Click_1"
+                        Foreground="White" Background="#0f85d5" 
+                        Height="50" HorizontalAlignment="Stretch" Margin="13.167,0,58.667,12" Grid.Column="1"/>
+
+                    
+                   
+                </Grid>
+                <Grid x:Name="GridChat" Background="#0f85d5" Visibility="Collapsed">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="45"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                    
+                    <StackPanel Grid.ColumnSpan="2">
+                            <Image Source="Assets/INFO_CHAT_PT2.png" Grid.ColumnSpan="2" VerticalAlignment="Top" Height="48" Margin="0,0,-0.333,0"/>
+                        <TextBox IsReadOnly="True" 
+                                         x:Name="TextBoxChatMessages"
+                                         Grid.Row="0" 
+                                         Grid.ColumnSpan="2"
+                                         AcceptsReturn="True" 
+                                         TextWrapping="Wrap"
+                                         Width="352"
+                                         Foreground="White"
+                                         HorizontalAlignment="Center" 
+                                         Background="Gray" 
+                                         ScrollViewer.VerticalScrollBarVisibility="Auto"
+                                         ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                                         TextChanged="TextBox_TextChanged"
+                                         VerticalAlignment="Stretch" Grid.RowSpan="2" Height="252"/>
+                        <TextBox
+                        	Height="40"
+                        	x:Name="TextBoxMessage" Width="340" 
+                        	PlaceholderText="Enter your message here" 
+                        	Foreground="Black" 
+                        	Background="Gray"
+                            Grid.RowSpan="2"
+                        	HorizontalAlignment="Center"
+                            
+                        	VerticalAlignment="Top" KeyUp="TextBoxMessage_KeyUp"/>
+                            <StackPanel Orientation="Horizontal">
+                        <Button
+                                        HorizontalAlignment="Center"
+                                        Name="ButtonContent" 
+                                        Content="Send" 
+                                        VerticalAlignment="Top"
+                                        Click="ButtonContent_Click_1" 
+                                        Foreground="White" 
+                                        Background="Gray" Margin="10,0,0,0" />
+                            <Button x:Name="loginbutton1" 
+                                   Foreground="White" 
+                                   Background="Gray"
+                                    Margin="20,0,0,0"
+                    			    Content="Sign Out" 
+                    			    VerticalAlignment="Bottom" 
+                    			    HorizontalAlignment="Center" 
+                    			    Height="50"
+                    			    
+                                    Tapped="loginbutton1_Tapped" Grid.Row="0" ></Button>
+                            </StackPanel>
+
+                        </StackPanel>
+                </Grid>
+                </Grid>
+            </PivotItem>
+        </Pivot>
+
+
+    </Grid>
+
+
+</Page>

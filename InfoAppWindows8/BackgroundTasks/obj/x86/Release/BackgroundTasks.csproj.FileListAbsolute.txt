@@ -1,0 +1,61 @@
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\bin\x86\Release\BackgroundTasks.winmd
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\bin\x86\Release\BackgroundTasks.pdb
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\bin\x86\Release\BackgroundTasks.pri
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\BackgroundTasks.winmd
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\BackgroundTasks.pdb
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\BackgroundTasks.winmdobj
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\BackgroundTasks.compile.pdb
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\priconfig.xml
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\layout.resfiles
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\resources.resfiles
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\pri.resfiles
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\qualifiers.txt
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\bin\x86\Release\BackgroundTasks.winmd
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\bin\x86\Release\BackgroundTasks.pdb
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\bin\x86\Release\BackgroundTasks.pri
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\BackgroundTasks.winmd
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\BackgroundTasks.pdb
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\BackgroundTasks.winmdobj
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\BackgroundTasks.compile.pdb
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\priconfig.xml
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\layout.resfiles
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\resources.resfiles
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\pri.resfiles
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\qualifiers.txt
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\Jayvee\Desktop\InfoAppWindows8\BackgroundTasks\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\bin\x86\Release\BackgroundTasks.winmd
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\bin\x86\Release\BackgroundTasks.pdb
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\bin\x86\Release\BackgroundTasks.pri
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\bin\x86\Release\Newtonsoft.Json.dll
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\bin\x86\Release\Newtonsoft.Json.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\BackgroundTasks.csprojResolveAssemblyReference.cache
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\BackgroundTasks.winmd
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\BackgroundTasks.pdb
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\BackgroundTasks.winmdobj
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\BackgroundTasks.compile.pdb
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\priconfig.xml
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\priconfig.xml.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\layout.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\layout.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\resources.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\resources.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\pri.resfiles
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\pri.resfiles.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\qualifiers.txt
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\qualifiers.txt.intermediate
+E:\InfoAppWindows (03-18-2015) 4am\InfoAppWindows8\BackgroundTasks\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt

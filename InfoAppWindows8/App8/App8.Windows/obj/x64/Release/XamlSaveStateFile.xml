@@ -1,0 +1,28 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\app8\app8.windows\obj\x64\release\intermediatexaml\app8.windows.exe" HashGuid="74eb14f3-71d9-83c4-de2b-fb82f6d57601" />
+    <ReferenceAssembly PathName="c:\users\jayvee\appdata\local\microsoft sdks\windows\v8.1\extensionsdks\bing.maps.xaml\1.313.0825.0\references\commonconfiguration\neutral\bing.maps.winmd" HashGuid="dcdce9e5-521a-6d20-3956-9df814dff813" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\backgroundtasks\bin\x64\release\backgroundtasks.winmd" HashGuid="4dccf132-d553-7119-e87d-cd485ab3868a" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.azure.activedirectory.graphclient.1.0.22\lib\portable-net40+wp8+win8+monoandroid10+monotouch10+windowsphoneapp81\microsoft.azure.activedirectory.graphclient.dll" HashGuid="c5f78e6f-0be1-f6e1-30c8-70ba8d0de4e5" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.data.edm.5.6.3\lib\portable-net45+wp8+win8+wpa\microsoft.data.edm.dll" HashGuid="3909eeff-128b-381c-a99e-630f720eb4cc" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.data.odata.5.6.3\lib\portable-net45+wp8+win8+wpa\microsoft.data.odata.dll" HashGuid="fbd79441-50af-6c45-bcde-2268f3d026aa" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.data.services.client.5.6.3\lib\portable-net45+wp8+win8+wpa\microsoft.data.services.client.dll" HashGuid="03101627-e876-b6c6-dfd1-96d6a18fe126" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.identitymodel.clients.activedirectory.2.14.201151115\lib\netcore45\microsoft.identitymodel.clients.activedirectory.winmd" HashGuid="1ab1d4be-6240-868e-1f45-34a76077fd63" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.odata.client.6.9.0\lib\portable-net45+wp8+win8+wpa\microsoft.odata.client.dll" HashGuid="4f46affa-21c3-9c89-583a-9d8c9f152324" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.odata.core.6.9.0\lib\portable-net40+sl5+wp8+win8+wpa\microsoft.odata.core.dll" HashGuid="9bb7ee75-3dda-f933-1fe6-42669ba36563" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.odata.edm.6.9.0\lib\portable-net40+sl5+wp8+win8+wpa\microsoft.odata.edm.dll" HashGuid="19d4f585-683c-1ca0-b723-1a086385b32a" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.office365.discovery.1.0.22\lib\portable-net40+sl5+wp8+win8+monoandroid10+monotouch10+windowsphoneapp81\microsoft.office365.discovery.dll" HashGuid="f0d610ff-557f-2366-a99e-bd1f8b901dad" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.office365.oauth.windows.1.0.22\lib\win81\microsoft.office365.oauth.dll" HashGuid="d0685f26-a7cb-8f0f-4b3f-667e047aa00b" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.office365.oauth.windows.1.0.22\lib\win81\microsoft.office365.oauth.windowsstore.dll" HashGuid="48a97a2a-490e-9347-af1d-97e63481a26a" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.office365.outlookservices.1.0.22\lib\portable-net40+sl5+wp8+win8+monoandroid10+monotouch10+windowsphoneapp81\microsoft.office365.outlookservices.portable.dll" HashGuid="fcbea54d-7072-ad77-4cff-569aec4087f1" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.office365.sharepoint.1.0.22\lib\portable-net40+sl5+wp8+win8+monoandroid10+monotouch10+windowsphoneapp81\microsoft.office365.sharepoint.portable.dll" HashGuid="7b7c2bcf-6848-9eb8-62e0-8e07a73f66ec" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.spatial.6.9.0\lib\portable-net40+sl5+wp8+win8+wpa\microsoft.spatial.dll" HashGuid="fb3b5ec3-89c5-4bf9-2bc2-d894029863b5" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\windowsazure.mobileservices.1.2.5\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="083034df-3ca7-6905-c884-535ec28d6c4e" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\windowsazure.mobileservices.1.2.5\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="c3fe55d4-dcfc-ac07-236d-f429b050553a" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\newtonsoft.json.6.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fd3dfcab-cf69-c796-78a2-2423dadb814b" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\jayvee\desktop\infoappwindows8\packages\system.spatial.5.6.3\lib\portable-net45+wp8+win8+wpa\system.spatial.dll" HashGuid="96704a47-99c4-8e33-2d18-73afd366aeef" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

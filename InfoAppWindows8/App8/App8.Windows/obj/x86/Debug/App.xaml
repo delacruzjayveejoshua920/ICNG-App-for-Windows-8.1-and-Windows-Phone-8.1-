@@ -1,0 +1,13 @@
+﻿<Application
+    x:Class="App8.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App8">
+    <Application.Resources>
+        <x:String x:Key="ida:ClientID">3422e459-6d22-4c1d-99ee-49f574e7ccf6</x:String>
+    
+        <x:String x:Key="ida:AuthorizationUri">https://login.windows.net</x:String>
+    </Application.Resources>
+
+</Application>
+

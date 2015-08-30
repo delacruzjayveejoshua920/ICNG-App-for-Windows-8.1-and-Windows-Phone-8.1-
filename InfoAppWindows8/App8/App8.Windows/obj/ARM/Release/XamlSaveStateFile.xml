@@ -1,0 +1,13 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\doncampos\source\workspaces\infoapp\infoappwindows8\app8\app8.windows\obj\arm\release\intermediatexaml\app8.windows.exe" HashGuid="ca004baa-721e-ed39-65cb-2ac0312632e1" />
+    <ReferenceAssembly PathName="c:\users\doncampos\appdata\local\microsoft sdks\windows\v8.1\extensionsdks\bing.maps.xaml\1.313.0825.0\references\commonconfiguration\neutral\bing.maps.winmd" HashGuid="dcdce9e5-521a-6d20-3956-9df814dff813" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\doncampos\source\workspaces\infoapp\infoappwindows8\backgroundtasks\bin\arm\release\backgroundtasks.winmd" HashGuid="4dccf132-d553-7119-e87d-cd485ab3868a" />
+    <ReferenceAssembly PathName="c:\users\doncampos\source\workspaces\infoapp\infoappwindows8\packages\windowsazure.mobileservices.1.2.5\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="083034df-3ca7-6905-c884-535ec28d6c4e" />
+    <ReferenceAssembly PathName="c:\users\doncampos\source\workspaces\infoapp\infoappwindows8\packages\windowsazure.mobileservices.1.2.5\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="c3fe55d4-dcfc-ac07-236d-f429b050553a" />
+    <ReferenceAssembly PathName="c:\users\doncampos\source\workspaces\infoapp\infoappwindows8\packages\newtonsoft.json.6.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fd3dfcab-cf69-c796-78a2-2423dadb814b" />
+    <ReferenceAssembly PathName="c:\users\doncampos\source\workspaces\infoapp\infoappwindows8\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\doncampos\source\workspaces\infoapp\infoappwindows8\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

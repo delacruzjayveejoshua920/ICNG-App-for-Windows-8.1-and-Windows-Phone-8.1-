@@ -1,0 +1,14 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.language-fr"
+"ResourceDimensions"		"language-fr"
+
+[Files]
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Debug\filemap.language-fr.pri"			"resources.pri"
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Debug\PackageLayout\fr\System.Spatial.resources.dll"			"fr\System.Spatial.resources.dll"
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Debug\PackageLayout\fr\Microsoft.Spatial.resources.dll"			"fr\Microsoft.Spatial.resources.dll"
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Debug\PackageLayout\fr\Microsoft.OData.Edm.resources.dll"			"fr\Microsoft.OData.Edm.resources.dll"
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Debug\PackageLayout\fr\Microsoft.OData.Core.resources.dll"			"fr\Microsoft.OData.Core.resources.dll"
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Debug\PackageLayout\fr\Microsoft.OData.Client.resources.dll"			"fr\Microsoft.OData.Client.resources.dll"
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Debug\PackageLayout\fr\Microsoft.Data.Services.Client.resources.dll"			"fr\Microsoft.Data.Services.Client.resources.dll"
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Debug\PackageLayout\fr\Microsoft.Data.OData.resources.dll"			"fr\Microsoft.Data.OData.resources.dll"
+"C:\Users\Jayvee\Desktop\InfoAppWindows8\App8\App8.Windows\obj\x86\Debug\PackageLayout\fr\Microsoft.Data.Edm.resources.dll"			"fr\Microsoft.Data.Edm.resources.dll"

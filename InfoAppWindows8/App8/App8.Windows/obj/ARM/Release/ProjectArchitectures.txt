@@ -1,0 +1,2 @@
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\App8\App8.Windows\App8.Windows.csproj;arm
+C:\Users\DonCampos\Source\Workspaces\InfoApp\InfoAppWindows8\BackgroundTasks\BackgroundTasks.csproj;arm

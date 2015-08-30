@@ -1,0 +1,110 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="App8.BSCS"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App8"
+    xmlns:common="using:App8.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">Bachelors of Science in Computer Science</x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="backButton" Margin="39,59,39,0" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        VerticalAlignment="Top"
+                        AutomationProperties.Name="Back"
+                        AutomationProperties.AutomationId="BackButton"
+                        AutomationProperties.ItemType="Navigation Button"/>
+            <TextBlock x:Name="pageTitle" Text="{StaticResource AppName}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+                        IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40"/>
+            
+            
+        </Grid>
+        <ScrollViewer Grid.Row="1" 
+                      HorizontalScrollMode="Enabled" 
+                      HorizontalScrollBarVisibility="Auto"
+                      VerticalScrollMode="Disabled"
+                      VerticalScrollBarVisibility="Hidden"
+                      HorizontalContentAlignment="Stretch" 
+                      ZoomMode="Disabled" >
+            <StackPanel Width="1300" Grid.Row="1" Margin="100,0,0,0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="550" />
+                        <ColumnDefinition Width="50" />
+                        <ColumnDefinition Width="600" />
+                        <ColumnDefinition Width="600" />
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0">
+                        <Image Grid.Column="0" Source="Assets/BSCS (Better).jpg" Width="400" HorizontalAlignment="Left"></Image>
+                        <RichTextBlock Grid.Column="0" FontSize="17" Margin="0,20,0,0" TextAlignment="Justify">
+                            <Paragraph>Bachelor Degree Program</Paragraph>
+                            <Paragraph>Duration:  3 years</Paragraph>
+                            <Paragraph>Recognized by the Commission on Higher Education (CHED)</Paragraph>
+                            <Paragraph></Paragraph>
+                            <Paragraph >
+                                Emphasizes on the development of the skills necessary to specify, design, develop, and manage computer-based systems solutions 
+                                and provided systems level support and development.
+                            </Paragraph>
+
+                            <Paragraph></Paragraph>
+                            <Paragraph>
+                                The BSCS program prepares students to be IT professionals and researchers, and to be proficient in designing and developing computing solutions.
+                            </Paragraph>
+
+
+                        </RichTextBlock >
+
+
+                    </StackPanel>
+
+                    <RichTextBlock Grid.Column="2" FontSize="17">
+                        <Paragraph FontSize="20">Carreer Path</Paragraph>
+                        <Paragraph>A graduate of this course can have a career as:
+                            <LineBreak></LineBreak>
+                        </Paragraph>
+                        <Paragraph>* Application Developer</Paragraph>
+                        <Paragraph>* Database Programmer</Paragraph>
+                        <Paragraph>* Database Designer</Paragraph>
+                        <Paragraph>* Information Security Engineer</Paragraph>
+                        <Paragraph>* Quality Assurance</Paragraph>
+                        <Paragraph>* Researcher</Paragraph>
+                        <Paragraph>* System Analyst</Paragraph>
+                        <Paragraph>* System Developer</Paragraph>
+                        
+                    </RichTextBlock>
+                </Grid>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
+
